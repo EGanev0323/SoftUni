@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.exe
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.deps.json
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.dll
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.pdb
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.csprojAssemblyReference.cache
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.dll
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.pdb
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.genruntimeconfig.cache

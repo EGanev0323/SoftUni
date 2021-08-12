@@ -1,0 +1,7 @@
+C:\Users\10d\source\repos\GenericClassses\SwapInt\bin\Debug\SwapInt.exe.config
+C:\Users\10d\source\repos\GenericClassses\SwapInt\bin\Debug\SwapInt.exe
+C:\Users\10d\source\repos\GenericClassses\SwapInt\bin\Debug\SwapInt.pdb
+C:\Users\10d\source\repos\GenericClassses\SwapInt\obj\Debug\SwapInt.csprojAssemblyReference.cache
+C:\Users\10d\source\repos\GenericClassses\SwapInt\obj\Debug\SwapInt.csproj.CoreCompileInputs.cache
+C:\Users\10d\source\repos\GenericClassses\SwapInt\obj\Debug\SwapInt.exe
+C:\Users\10d\source\repos\GenericClassses\SwapInt\obj\Debug\SwapInt.pdb

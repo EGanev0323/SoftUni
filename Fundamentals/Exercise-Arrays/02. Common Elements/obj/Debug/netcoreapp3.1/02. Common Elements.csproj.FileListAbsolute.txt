@@ -1,0 +1,13 @@
+C:\Users\emkat\source\repos\Exercise-Arrays\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.exe
+C:\Users\emkat\source\repos\Exercise-Arrays\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.deps.json
+C:\Users\emkat\source\repos\Exercise-Arrays\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.runtimeconfig.json
+C:\Users\emkat\source\repos\Exercise-Arrays\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.runtimeconfig.dev.json
+C:\Users\emkat\source\repos\Exercise-Arrays\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.dll
+C:\Users\emkat\source\repos\Exercise-Arrays\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.pdb
+C:\Users\emkat\source\repos\Exercise-Arrays\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.csproj.AssemblyReference.cache
+C:\Users\emkat\source\repos\Exercise-Arrays\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.AssemblyInfoInputs.cache
+C:\Users\emkat\source\repos\Exercise-Arrays\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.AssemblyInfo.cs
+C:\Users\emkat\source\repos\Exercise-Arrays\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\emkat\source\repos\Exercise-Arrays\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.dll
+C:\Users\emkat\source\repos\Exercise-Arrays\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.pdb
+C:\Users\emkat\source\repos\Exercise-Arrays\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.genruntimeconfig.cache

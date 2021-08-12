@@ -1,0 +1,12 @@
+E:\Visual Studio SU\07\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.exe
+E:\Visual Studio SU\07\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.deps.json
+E:\Visual Studio SU\07\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.runtimeconfig.json
+E:\Visual Studio SU\07\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.runtimeconfig.dev.json
+E:\Visual Studio SU\07\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.dll
+E:\Visual Studio SU\07\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.pdb
+E:\Visual Studio SU\07\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.AssemblyInfoInputs.cache
+E:\Visual Studio SU\07\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.AssemblyInfo.cs
+E:\Visual Studio SU\07\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\07\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.dll
+E:\Visual Studio SU\07\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.pdb
+E:\Visual Studio SU\07\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.genruntimeconfig.cache

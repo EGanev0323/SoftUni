@@ -1,0 +1,12 @@
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.exe
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.deps.json
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.dll
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.pdb
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.dll
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.pdb
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.genruntimeconfig.cache

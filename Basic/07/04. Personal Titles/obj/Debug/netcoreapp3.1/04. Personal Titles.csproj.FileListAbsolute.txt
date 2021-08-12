@@ -1,0 +1,12 @@
+E:\Visual Studio SU\07\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.exe
+E:\Visual Studio SU\07\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.deps.json
+E:\Visual Studio SU\07\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.runtimeconfig.json
+E:\Visual Studio SU\07\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.runtimeconfig.dev.json
+E:\Visual Studio SU\07\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.dll
+E:\Visual Studio SU\07\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.pdb
+E:\Visual Studio SU\07\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.AssemblyInfoInputs.cache
+E:\Visual Studio SU\07\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.AssemblyInfo.cs
+E:\Visual Studio SU\07\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\07\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.dll
+E:\Visual Studio SU\07\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.pdb
+E:\Visual Studio SU\07\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.genruntimeconfig.cache

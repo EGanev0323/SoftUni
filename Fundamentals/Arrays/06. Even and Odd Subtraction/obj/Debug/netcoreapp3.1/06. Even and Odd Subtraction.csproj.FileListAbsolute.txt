@@ -1,0 +1,12 @@
+D:\Visual Studio SU\Fundamentals\Arrays\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.exe
+D:\Visual Studio SU\Fundamentals\Arrays\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.deps.json
+D:\Visual Studio SU\Fundamentals\Arrays\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\Arrays\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\Arrays\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.dll
+D:\Visual Studio SU\Fundamentals\Arrays\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.pdb
+D:\Visual Studio SU\Fundamentals\Arrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\Arrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\Arrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\Arrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.dll
+D:\Visual Studio SU\Fundamentals\Arrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.pdb
+D:\Visual Studio SU\Fundamentals\Arrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.genruntimeconfig.cache

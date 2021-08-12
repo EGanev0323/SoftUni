@@ -1,0 +1,12 @@
+E:\Visual Studio SU\13\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.exe
+E:\Visual Studio SU\13\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.deps.json
+E:\Visual Studio SU\13\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.runtimeconfig.json
+E:\Visual Studio SU\13\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.runtimeconfig.dev.json
+E:\Visual Studio SU\13\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.dll
+E:\Visual Studio SU\13\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.pdb
+E:\Visual Studio SU\13\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.AssemblyInfoInputs.cache
+E:\Visual Studio SU\13\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.AssemblyInfo.cs
+E:\Visual Studio SU\13\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\13\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.dll
+E:\Visual Studio SU\13\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.pdb
+E:\Visual Studio SU\13\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.genruntimeconfig.cache

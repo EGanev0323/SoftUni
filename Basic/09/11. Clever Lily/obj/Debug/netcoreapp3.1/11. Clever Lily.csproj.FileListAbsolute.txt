@@ -1,0 +1,12 @@
+C:\Users\EGanev\source\repos\09\11. Clever Lily\bin\Debug\netcoreapp3.1\11. Clever Lily.exe
+C:\Users\EGanev\source\repos\09\11. Clever Lily\bin\Debug\netcoreapp3.1\11. Clever Lily.deps.json
+C:\Users\EGanev\source\repos\09\11. Clever Lily\bin\Debug\netcoreapp3.1\11. Clever Lily.runtimeconfig.json
+C:\Users\EGanev\source\repos\09\11. Clever Lily\bin\Debug\netcoreapp3.1\11. Clever Lily.runtimeconfig.dev.json
+C:\Users\EGanev\source\repos\09\11. Clever Lily\bin\Debug\netcoreapp3.1\11. Clever Lily.dll
+C:\Users\EGanev\source\repos\09\11. Clever Lily\bin\Debug\netcoreapp3.1\11. Clever Lily.pdb
+C:\Users\EGanev\source\repos\09\11. Clever Lily\obj\Debug\netcoreapp3.1\11. Clever Lily.AssemblyInfoInputs.cache
+C:\Users\EGanev\source\repos\09\11. Clever Lily\obj\Debug\netcoreapp3.1\11. Clever Lily.AssemblyInfo.cs
+C:\Users\EGanev\source\repos\09\11. Clever Lily\obj\Debug\netcoreapp3.1\11. Clever Lily.csproj.CoreCompileInputs.cache
+C:\Users\EGanev\source\repos\09\11. Clever Lily\obj\Debug\netcoreapp3.1\11. Clever Lily.dll
+C:\Users\EGanev\source\repos\09\11. Clever Lily\obj\Debug\netcoreapp3.1\11. Clever Lily.pdb
+C:\Users\EGanev\source\repos\09\11. Clever Lily\obj\Debug\netcoreapp3.1\11. Clever Lily.genruntimeconfig.cache

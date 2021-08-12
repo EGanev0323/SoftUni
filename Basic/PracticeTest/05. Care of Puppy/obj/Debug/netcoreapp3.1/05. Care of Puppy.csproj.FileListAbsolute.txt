@@ -1,0 +1,12 @@
+E:\Visual Studio SU\PracticeTest\05. Care of Puppy\bin\Debug\netcoreapp3.1\05. Care of Puppy.exe
+E:\Visual Studio SU\PracticeTest\05. Care of Puppy\bin\Debug\netcoreapp3.1\05. Care of Puppy.deps.json
+E:\Visual Studio SU\PracticeTest\05. Care of Puppy\bin\Debug\netcoreapp3.1\05. Care of Puppy.runtimeconfig.json
+E:\Visual Studio SU\PracticeTest\05. Care of Puppy\bin\Debug\netcoreapp3.1\05. Care of Puppy.runtimeconfig.dev.json
+E:\Visual Studio SU\PracticeTest\05. Care of Puppy\bin\Debug\netcoreapp3.1\05. Care of Puppy.dll
+E:\Visual Studio SU\PracticeTest\05. Care of Puppy\bin\Debug\netcoreapp3.1\05. Care of Puppy.pdb
+E:\Visual Studio SU\PracticeTest\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.AssemblyInfoInputs.cache
+E:\Visual Studio SU\PracticeTest\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.AssemblyInfo.cs
+E:\Visual Studio SU\PracticeTest\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\PracticeTest\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.dll
+E:\Visual Studio SU\PracticeTest\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.pdb
+E:\Visual Studio SU\PracticeTest\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.genruntimeconfig.cache

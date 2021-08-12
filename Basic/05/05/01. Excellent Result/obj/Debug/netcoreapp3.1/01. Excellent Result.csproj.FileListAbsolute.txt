@@ -1,0 +1,13 @@
+E:\Visual Studio SU\05\05\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.exe
+E:\Visual Studio SU\05\05\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.deps.json
+E:\Visual Studio SU\05\05\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.runtimeconfig.json
+E:\Visual Studio SU\05\05\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.runtimeconfig.dev.json
+E:\Visual Studio SU\05\05\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.dll
+E:\Visual Studio SU\05\05\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.pdb
+E:\Visual Studio SU\05\05\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.csprojAssemblyReference.cache
+E:\Visual Studio SU\05\05\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.AssemblyInfoInputs.cache
+E:\Visual Studio SU\05\05\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.AssemblyInfo.cs
+E:\Visual Studio SU\05\05\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\05\05\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.dll
+E:\Visual Studio SU\05\05\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.pdb
+E:\Visual Studio SU\05\05\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.genruntimeconfig.cache

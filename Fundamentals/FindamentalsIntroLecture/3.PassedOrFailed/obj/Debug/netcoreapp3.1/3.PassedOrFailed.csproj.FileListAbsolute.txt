@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\3.PassedOrFailed\bin\Debug\netcoreapp3.1\3.PassedOrFailed.exe
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\3.PassedOrFailed\bin\Debug\netcoreapp3.1\3.PassedOrFailed.deps.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\3.PassedOrFailed\bin\Debug\netcoreapp3.1\3.PassedOrFailed.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\3.PassedOrFailed\bin\Debug\netcoreapp3.1\3.PassedOrFailed.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\3.PassedOrFailed\bin\Debug\netcoreapp3.1\3.PassedOrFailed.dll
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\3.PassedOrFailed\bin\Debug\netcoreapp3.1\3.PassedOrFailed.pdb
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\3.PassedOrFailed\obj\Debug\netcoreapp3.1\3.PassedOrFailed.csprojAssemblyReference.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\3.PassedOrFailed\obj\Debug\netcoreapp3.1\3.PassedOrFailed.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\3.PassedOrFailed\obj\Debug\netcoreapp3.1\3.PassedOrFailed.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\3.PassedOrFailed\obj\Debug\netcoreapp3.1\3.PassedOrFailed.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\3.PassedOrFailed\obj\Debug\netcoreapp3.1\3.PassedOrFailed.dll
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\3.PassedOrFailed\obj\Debug\netcoreapp3.1\3.PassedOrFailed.pdb
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\3.PassedOrFailed\obj\Debug\netcoreapp3.1\3.PassedOrFailed.genruntimeconfig.cache

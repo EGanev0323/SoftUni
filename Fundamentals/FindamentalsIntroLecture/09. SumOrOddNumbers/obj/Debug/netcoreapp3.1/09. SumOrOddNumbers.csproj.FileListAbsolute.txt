@@ -1,0 +1,12 @@
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\09. SumOrOddNumbers\bin\Debug\netcoreapp3.1\09. SumOrOddNumbers.exe
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\09. SumOrOddNumbers\bin\Debug\netcoreapp3.1\09. SumOrOddNumbers.deps.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\09. SumOrOddNumbers\bin\Debug\netcoreapp3.1\09. SumOrOddNumbers.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\09. SumOrOddNumbers\bin\Debug\netcoreapp3.1\09. SumOrOddNumbers.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\09. SumOrOddNumbers\bin\Debug\netcoreapp3.1\09. SumOrOddNumbers.dll
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\09. SumOrOddNumbers\bin\Debug\netcoreapp3.1\09. SumOrOddNumbers.pdb
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\09. SumOrOddNumbers\obj\Debug\netcoreapp3.1\09. SumOrOddNumbers.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\09. SumOrOddNumbers\obj\Debug\netcoreapp3.1\09. SumOrOddNumbers.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\09. SumOrOddNumbers\obj\Debug\netcoreapp3.1\09. SumOrOddNumbers.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\09. SumOrOddNumbers\obj\Debug\netcoreapp3.1\09. SumOrOddNumbers.dll
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\09. SumOrOddNumbers\obj\Debug\netcoreapp3.1\09. SumOrOddNumbers.pdb
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\09. SumOrOddNumbers\obj\Debug\netcoreapp3.1\09. SumOrOddNumbers.genruntimeconfig.cache

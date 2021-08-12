@@ -1,0 +1,13 @@
+E:\Visual Studio SU\Num1To10\Num1To10\bin\Debug\netcoreapp3.1\Num1To10.exe
+E:\Visual Studio SU\Num1To10\Num1To10\bin\Debug\netcoreapp3.1\Num1To10.deps.json
+E:\Visual Studio SU\Num1To10\Num1To10\bin\Debug\netcoreapp3.1\Num1To10.runtimeconfig.json
+E:\Visual Studio SU\Num1To10\Num1To10\bin\Debug\netcoreapp3.1\Num1To10.runtimeconfig.dev.json
+E:\Visual Studio SU\Num1To10\Num1To10\bin\Debug\netcoreapp3.1\Num1To10.dll
+E:\Visual Studio SU\Num1To10\Num1To10\bin\Debug\netcoreapp3.1\Num1To10.pdb
+E:\Visual Studio SU\Num1To10\Num1To10\obj\Debug\netcoreapp3.1\Num1To10.csprojAssemblyReference.cache
+E:\Visual Studio SU\Num1To10\Num1To10\obj\Debug\netcoreapp3.1\Num1To10.AssemblyInfoInputs.cache
+E:\Visual Studio SU\Num1To10\Num1To10\obj\Debug\netcoreapp3.1\Num1To10.AssemblyInfo.cs
+E:\Visual Studio SU\Num1To10\Num1To10\obj\Debug\netcoreapp3.1\Num1To10.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\Num1To10\Num1To10\obj\Debug\netcoreapp3.1\Num1To10.dll
+E:\Visual Studio SU\Num1To10\Num1To10\obj\Debug\netcoreapp3.1\Num1To10.pdb
+E:\Visual Studio SU\Num1To10\Num1To10\obj\Debug\netcoreapp3.1\Num1To10.genruntimeconfig.cache

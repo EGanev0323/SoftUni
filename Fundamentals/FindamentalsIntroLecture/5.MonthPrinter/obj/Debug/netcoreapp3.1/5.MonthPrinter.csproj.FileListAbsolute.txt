@@ -1,0 +1,12 @@
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\5.MonthPrinter\bin\Debug\netcoreapp3.1\5.MonthPrinter.exe
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\5.MonthPrinter\bin\Debug\netcoreapp3.1\5.MonthPrinter.deps.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\5.MonthPrinter\bin\Debug\netcoreapp3.1\5.MonthPrinter.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\5.MonthPrinter\bin\Debug\netcoreapp3.1\5.MonthPrinter.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\5.MonthPrinter\bin\Debug\netcoreapp3.1\5.MonthPrinter.dll
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\5.MonthPrinter\bin\Debug\netcoreapp3.1\5.MonthPrinter.pdb
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\5.MonthPrinter\obj\Debug\netcoreapp3.1\5.MonthPrinter.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\5.MonthPrinter\obj\Debug\netcoreapp3.1\5.MonthPrinter.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\5.MonthPrinter\obj\Debug\netcoreapp3.1\5.MonthPrinter.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\5.MonthPrinter\obj\Debug\netcoreapp3.1\5.MonthPrinter.dll
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\5.MonthPrinter\obj\Debug\netcoreapp3.1\5.MonthPrinter.pdb
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\5.MonthPrinter\obj\Debug\netcoreapp3.1\5.MonthPrinter.genruntimeconfig.cache

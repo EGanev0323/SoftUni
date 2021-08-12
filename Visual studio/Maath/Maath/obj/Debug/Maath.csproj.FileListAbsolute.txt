@@ -1,0 +1,7 @@
+C:\Users\10d\source\repos\Maath\Maath\bin\Debug\Maath.exe.config
+C:\Users\10d\source\repos\Maath\Maath\bin\Debug\Maath.exe
+C:\Users\10d\source\repos\Maath\Maath\bin\Debug\Maath.pdb
+C:\Users\10d\source\repos\Maath\Maath\obj\Debug\Maath.csprojAssemblyReference.cache
+C:\Users\10d\source\repos\Maath\Maath\obj\Debug\Maath.csproj.CoreCompileInputs.cache
+C:\Users\10d\source\repos\Maath\Maath\obj\Debug\Maath.exe
+C:\Users\10d\source\repos\Maath\Maath\obj\Debug\Maath.pdb

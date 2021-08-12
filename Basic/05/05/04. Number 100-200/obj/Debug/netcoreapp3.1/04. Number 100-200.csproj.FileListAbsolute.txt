@@ -1,0 +1,13 @@
+E:\Visual Studio SU\05\05\04. Number 100-200\bin\Debug\netcoreapp3.1\04. Number 100-200.exe
+E:\Visual Studio SU\05\05\04. Number 100-200\bin\Debug\netcoreapp3.1\04. Number 100-200.deps.json
+E:\Visual Studio SU\05\05\04. Number 100-200\bin\Debug\netcoreapp3.1\04. Number 100-200.runtimeconfig.json
+E:\Visual Studio SU\05\05\04. Number 100-200\bin\Debug\netcoreapp3.1\04. Number 100-200.runtimeconfig.dev.json
+E:\Visual Studio SU\05\05\04. Number 100-200\bin\Debug\netcoreapp3.1\04. Number 100-200.dll
+E:\Visual Studio SU\05\05\04. Number 100-200\bin\Debug\netcoreapp3.1\04. Number 100-200.pdb
+E:\Visual Studio SU\05\05\04. Number 100-200\obj\Debug\netcoreapp3.1\04. Number 100-200.csprojAssemblyReference.cache
+E:\Visual Studio SU\05\05\04. Number 100-200\obj\Debug\netcoreapp3.1\04. Number 100-200.AssemblyInfoInputs.cache
+E:\Visual Studio SU\05\05\04. Number 100-200\obj\Debug\netcoreapp3.1\04. Number 100-200.AssemblyInfo.cs
+E:\Visual Studio SU\05\05\04. Number 100-200\obj\Debug\netcoreapp3.1\04. Number 100-200.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\05\05\04. Number 100-200\obj\Debug\netcoreapp3.1\04. Number 100-200.dll
+E:\Visual Studio SU\05\05\04. Number 100-200\obj\Debug\netcoreapp3.1\04. Number 100-200.pdb
+E:\Visual Studio SU\05\05\04. Number 100-200\obj\Debug\netcoreapp3.1\04. Number 100-200.genruntimeconfig.cache

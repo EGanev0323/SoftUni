@@ -1,0 +1,12 @@
+E:\Visual Studio SU\05\05\06. Area of Figures\bin\Debug\netcoreapp3.1\06. Area of Figures.exe
+E:\Visual Studio SU\05\05\06. Area of Figures\bin\Debug\netcoreapp3.1\06. Area of Figures.deps.json
+E:\Visual Studio SU\05\05\06. Area of Figures\bin\Debug\netcoreapp3.1\06. Area of Figures.runtimeconfig.json
+E:\Visual Studio SU\05\05\06. Area of Figures\bin\Debug\netcoreapp3.1\06. Area of Figures.runtimeconfig.dev.json
+E:\Visual Studio SU\05\05\06. Area of Figures\bin\Debug\netcoreapp3.1\06. Area of Figures.dll
+E:\Visual Studio SU\05\05\06. Area of Figures\bin\Debug\netcoreapp3.1\06. Area of Figures.pdb
+E:\Visual Studio SU\05\05\06. Area of Figures\obj\Debug\netcoreapp3.1\06. Area of Figures.AssemblyInfoInputs.cache
+E:\Visual Studio SU\05\05\06. Area of Figures\obj\Debug\netcoreapp3.1\06. Area of Figures.AssemblyInfo.cs
+E:\Visual Studio SU\05\05\06. Area of Figures\obj\Debug\netcoreapp3.1\06. Area of Figures.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\05\05\06. Area of Figures\obj\Debug\netcoreapp3.1\06. Area of Figures.dll
+E:\Visual Studio SU\05\05\06. Area of Figures\obj\Debug\netcoreapp3.1\06. Area of Figures.pdb
+E:\Visual Studio SU\05\05\06. Area of Figures\obj\Debug\netcoreapp3.1\06. Area of Figures.genruntimeconfig.cache

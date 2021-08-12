@@ -1,0 +1,7 @@
+C:\Users\10d\source\repos\GenericClassses\UnivScale\bin\Debug\UnivScale.exe.config
+C:\Users\10d\source\repos\GenericClassses\UnivScale\bin\Debug\UnivScale.exe
+C:\Users\10d\source\repos\GenericClassses\UnivScale\bin\Debug\UnivScale.pdb
+C:\Users\10d\source\repos\GenericClassses\UnivScale\obj\Debug\UnivScale.csprojAssemblyReference.cache
+C:\Users\10d\source\repos\GenericClassses\UnivScale\obj\Debug\UnivScale.csproj.CoreCompileInputs.cache
+C:\Users\10d\source\repos\GenericClassses\UnivScale\obj\Debug\UnivScale.exe
+C:\Users\10d\source\repos\GenericClassses\UnivScale\obj\Debug\UnivScale.pdb

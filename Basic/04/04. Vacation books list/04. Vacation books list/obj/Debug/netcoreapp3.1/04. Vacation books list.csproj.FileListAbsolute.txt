@@ -1,0 +1,13 @@
+E:\Visual Studio SU\04. Vacation books list\04. Vacation books list\bin\Debug\netcoreapp3.1\04. Vacation books list.exe
+E:\Visual Studio SU\04. Vacation books list\04. Vacation books list\bin\Debug\netcoreapp3.1\04. Vacation books list.deps.json
+E:\Visual Studio SU\04. Vacation books list\04. Vacation books list\bin\Debug\netcoreapp3.1\04. Vacation books list.runtimeconfig.json
+E:\Visual Studio SU\04. Vacation books list\04. Vacation books list\bin\Debug\netcoreapp3.1\04. Vacation books list.runtimeconfig.dev.json
+E:\Visual Studio SU\04. Vacation books list\04. Vacation books list\bin\Debug\netcoreapp3.1\04. Vacation books list.dll
+E:\Visual Studio SU\04. Vacation books list\04. Vacation books list\bin\Debug\netcoreapp3.1\04. Vacation books list.pdb
+E:\Visual Studio SU\04. Vacation books list\04. Vacation books list\obj\Debug\netcoreapp3.1\04. Vacation books list.csprojAssemblyReference.cache
+E:\Visual Studio SU\04. Vacation books list\04. Vacation books list\obj\Debug\netcoreapp3.1\04. Vacation books list.AssemblyInfoInputs.cache
+E:\Visual Studio SU\04. Vacation books list\04. Vacation books list\obj\Debug\netcoreapp3.1\04. Vacation books list.AssemblyInfo.cs
+E:\Visual Studio SU\04. Vacation books list\04. Vacation books list\obj\Debug\netcoreapp3.1\04. Vacation books list.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\04. Vacation books list\04. Vacation books list\obj\Debug\netcoreapp3.1\04. Vacation books list.dll
+E:\Visual Studio SU\04. Vacation books list\04. Vacation books list\obj\Debug\netcoreapp3.1\04. Vacation books list.pdb
+E:\Visual Studio SU\04. Vacation books list\04. Vacation books list\obj\Debug\netcoreapp3.1\04. Vacation books list.genruntimeconfig.cache

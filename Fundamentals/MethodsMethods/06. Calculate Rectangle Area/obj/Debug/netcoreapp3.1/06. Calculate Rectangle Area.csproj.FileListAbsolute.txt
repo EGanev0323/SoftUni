@@ -1,0 +1,12 @@
+D:\Visual Studio SU\Fundamentals\MethodsMethods\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.exe
+D:\Visual Studio SU\Fundamentals\MethodsMethods\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.deps.json
+D:\Visual Studio SU\Fundamentals\MethodsMethods\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\MethodsMethods\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\MethodsMethods\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.dll
+D:\Visual Studio SU\Fundamentals\MethodsMethods\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.pdb
+D:\Visual Studio SU\Fundamentals\MethodsMethods\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\MethodsMethods\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\MethodsMethods\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\MethodsMethods\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.dll
+D:\Visual Studio SU\Fundamentals\MethodsMethods\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.pdb
+D:\Visual Studio SU\Fundamentals\MethodsMethods\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Visual Studio SU\PracticeTest\03. Energy Booster\bin\Debug\netcoreapp3.1\03. Energy Booster.exe
+E:\Visual Studio SU\PracticeTest\03. Energy Booster\bin\Debug\netcoreapp3.1\03. Energy Booster.deps.json
+E:\Visual Studio SU\PracticeTest\03. Energy Booster\bin\Debug\netcoreapp3.1\03. Energy Booster.runtimeconfig.json
+E:\Visual Studio SU\PracticeTest\03. Energy Booster\bin\Debug\netcoreapp3.1\03. Energy Booster.runtimeconfig.dev.json
+E:\Visual Studio SU\PracticeTest\03. Energy Booster\bin\Debug\netcoreapp3.1\03. Energy Booster.dll
+E:\Visual Studio SU\PracticeTest\03. Energy Booster\bin\Debug\netcoreapp3.1\03. Energy Booster.pdb
+E:\Visual Studio SU\PracticeTest\03. Energy Booster\obj\Debug\netcoreapp3.1\03. Energy Booster.AssemblyInfoInputs.cache
+E:\Visual Studio SU\PracticeTest\03. Energy Booster\obj\Debug\netcoreapp3.1\03. Energy Booster.AssemblyInfo.cs
+E:\Visual Studio SU\PracticeTest\03. Energy Booster\obj\Debug\netcoreapp3.1\03. Energy Booster.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\PracticeTest\03. Energy Booster\obj\Debug\netcoreapp3.1\03. Energy Booster.dll
+E:\Visual Studio SU\PracticeTest\03. Energy Booster\obj\Debug\netcoreapp3.1\03. Energy Booster.pdb
+E:\Visual Studio SU\PracticeTest\03. Energy Booster\obj\Debug\netcoreapp3.1\03. Energy Booster.genruntimeconfig.cache
+E:\Visual Studio SU\PracticeTest\03. Energy Booster\obj\Debug\netcoreapp3.1\03. Energy Booster.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+E:\Visual Studio SU\05\05\07. Toy Shop\bin\Debug\netcoreapp3.1\07. Toy Shop.exe
+E:\Visual Studio SU\05\05\07. Toy Shop\bin\Debug\netcoreapp3.1\07. Toy Shop.deps.json
+E:\Visual Studio SU\05\05\07. Toy Shop\bin\Debug\netcoreapp3.1\07. Toy Shop.runtimeconfig.json
+E:\Visual Studio SU\05\05\07. Toy Shop\bin\Debug\netcoreapp3.1\07. Toy Shop.runtimeconfig.dev.json
+E:\Visual Studio SU\05\05\07. Toy Shop\bin\Debug\netcoreapp3.1\07. Toy Shop.dll
+E:\Visual Studio SU\05\05\07. Toy Shop\bin\Debug\netcoreapp3.1\07. Toy Shop.pdb
+E:\Visual Studio SU\05\05\07. Toy Shop\obj\Debug\netcoreapp3.1\07. Toy Shop.csprojAssemblyReference.cache
+E:\Visual Studio SU\05\05\07. Toy Shop\obj\Debug\netcoreapp3.1\07. Toy Shop.AssemblyInfoInputs.cache
+E:\Visual Studio SU\05\05\07. Toy Shop\obj\Debug\netcoreapp3.1\07. Toy Shop.AssemblyInfo.cs
+E:\Visual Studio SU\05\05\07. Toy Shop\obj\Debug\netcoreapp3.1\07. Toy Shop.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\05\05\07. Toy Shop\obj\Debug\netcoreapp3.1\07. Toy Shop.dll
+E:\Visual Studio SU\05\05\07. Toy Shop\obj\Debug\netcoreapp3.1\07. Toy Shop.pdb
+E:\Visual Studio SU\05\05\07. Toy Shop\obj\Debug\netcoreapp3.1\07. Toy Shop.genruntimeconfig.cache

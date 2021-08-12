@@ -1,0 +1,13 @@
+E:\Visual Studio SU\06\08. Scholarship\bin\Debug\netcoreapp3.1\08. Scholarship.exe
+E:\Visual Studio SU\06\08. Scholarship\bin\Debug\netcoreapp3.1\08. Scholarship.deps.json
+E:\Visual Studio SU\06\08. Scholarship\bin\Debug\netcoreapp3.1\08. Scholarship.runtimeconfig.json
+E:\Visual Studio SU\06\08. Scholarship\bin\Debug\netcoreapp3.1\08. Scholarship.runtimeconfig.dev.json
+E:\Visual Studio SU\06\08. Scholarship\bin\Debug\netcoreapp3.1\08. Scholarship.dll
+E:\Visual Studio SU\06\08. Scholarship\bin\Debug\netcoreapp3.1\08. Scholarship.pdb
+E:\Visual Studio SU\06\08. Scholarship\obj\Debug\netcoreapp3.1\08. Scholarship.csprojAssemblyReference.cache
+E:\Visual Studio SU\06\08. Scholarship\obj\Debug\netcoreapp3.1\08. Scholarship.AssemblyInfoInputs.cache
+E:\Visual Studio SU\06\08. Scholarship\obj\Debug\netcoreapp3.1\08. Scholarship.AssemblyInfo.cs
+E:\Visual Studio SU\06\08. Scholarship\obj\Debug\netcoreapp3.1\08. Scholarship.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\06\08. Scholarship\obj\Debug\netcoreapp3.1\08. Scholarship.dll
+E:\Visual Studio SU\06\08. Scholarship\obj\Debug\netcoreapp3.1\08. Scholarship.pdb
+E:\Visual Studio SU\06\08. Scholarship\obj\Debug\netcoreapp3.1\08. Scholarship.genruntimeconfig.cache

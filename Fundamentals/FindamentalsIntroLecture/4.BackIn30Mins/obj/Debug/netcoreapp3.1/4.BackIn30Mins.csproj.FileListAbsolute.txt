@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\4.BackIn30Mins\bin\Debug\netcoreapp3.1\4.BackIn30Mins.exe
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\4.BackIn30Mins\bin\Debug\netcoreapp3.1\4.BackIn30Mins.deps.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\4.BackIn30Mins\bin\Debug\netcoreapp3.1\4.BackIn30Mins.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\4.BackIn30Mins\bin\Debug\netcoreapp3.1\4.BackIn30Mins.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\4.BackIn30Mins\bin\Debug\netcoreapp3.1\4.BackIn30Mins.dll
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\4.BackIn30Mins\bin\Debug\netcoreapp3.1\4.BackIn30Mins.pdb
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\4.BackIn30Mins\obj\Debug\netcoreapp3.1\4.BackIn30Mins.csprojAssemblyReference.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\4.BackIn30Mins\obj\Debug\netcoreapp3.1\4.BackIn30Mins.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\4.BackIn30Mins\obj\Debug\netcoreapp3.1\4.BackIn30Mins.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\4.BackIn30Mins\obj\Debug\netcoreapp3.1\4.BackIn30Mins.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\4.BackIn30Mins\obj\Debug\netcoreapp3.1\4.BackIn30Mins.dll
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\4.BackIn30Mins\obj\Debug\netcoreapp3.1\4.BackIn30Mins.pdb
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\4.BackIn30Mins\obj\Debug\netcoreapp3.1\4.BackIn30Mins.genruntimeconfig.cache

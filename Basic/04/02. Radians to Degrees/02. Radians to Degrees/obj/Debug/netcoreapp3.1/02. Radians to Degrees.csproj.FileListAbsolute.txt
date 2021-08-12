@@ -1,0 +1,12 @@
+E:\Visual Studio SU\02. Radians to Degrees\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.exe
+E:\Visual Studio SU\02. Radians to Degrees\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.deps.json
+E:\Visual Studio SU\02. Radians to Degrees\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.runtimeconfig.json
+E:\Visual Studio SU\02. Radians to Degrees\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.runtimeconfig.dev.json
+E:\Visual Studio SU\02. Radians to Degrees\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.dll
+E:\Visual Studio SU\02. Radians to Degrees\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.pdb
+E:\Visual Studio SU\02. Radians to Degrees\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.AssemblyInfoInputs.cache
+E:\Visual Studio SU\02. Radians to Degrees\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.AssemblyInfo.cs
+E:\Visual Studio SU\02. Radians to Degrees\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\02. Radians to Degrees\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.dll
+E:\Visual Studio SU\02. Radians to Degrees\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.pdb
+E:\Visual Studio SU\02. Radians to Degrees\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.genruntimeconfig.cache

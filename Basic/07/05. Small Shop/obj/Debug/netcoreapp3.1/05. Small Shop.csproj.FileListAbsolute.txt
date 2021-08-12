@@ -1,0 +1,13 @@
+E:\Visual Studio SU\07\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.exe
+E:\Visual Studio SU\07\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.deps.json
+E:\Visual Studio SU\07\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.runtimeconfig.json
+E:\Visual Studio SU\07\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.runtimeconfig.dev.json
+E:\Visual Studio SU\07\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.dll
+E:\Visual Studio SU\07\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.pdb
+E:\Visual Studio SU\07\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.csprojAssemblyReference.cache
+E:\Visual Studio SU\07\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.AssemblyInfoInputs.cache
+E:\Visual Studio SU\07\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.AssemblyInfo.cs
+E:\Visual Studio SU\07\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\07\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.dll
+E:\Visual Studio SU\07\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.pdb
+E:\Visual Studio SU\07\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.genruntimeconfig.cache

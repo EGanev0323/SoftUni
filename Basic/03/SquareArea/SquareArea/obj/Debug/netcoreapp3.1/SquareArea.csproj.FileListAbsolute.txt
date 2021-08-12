@@ -1,0 +1,12 @@
+E:\Visual Studio SU\SquareArea\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.exe
+E:\Visual Studio SU\SquareArea\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.deps.json
+E:\Visual Studio SU\SquareArea\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.runtimeconfig.json
+E:\Visual Studio SU\SquareArea\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.runtimeconfig.dev.json
+E:\Visual Studio SU\SquareArea\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.dll
+E:\Visual Studio SU\SquareArea\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.pdb
+E:\Visual Studio SU\SquareArea\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.AssemblyInfoInputs.cache
+E:\Visual Studio SU\SquareArea\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.AssemblyInfo.cs
+E:\Visual Studio SU\SquareArea\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\SquareArea\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.dll
+E:\Visual Studio SU\SquareArea\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.pdb
+E:\Visual Studio SU\SquareArea\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.genruntimeconfig.cache

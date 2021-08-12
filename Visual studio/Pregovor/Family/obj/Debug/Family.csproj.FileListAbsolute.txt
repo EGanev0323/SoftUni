@@ -1,0 +1,7 @@
+C:\Users\10d\source\repos\Pregovor\Family\bin\Debug\Family.exe.config
+C:\Users\10d\source\repos\Pregovor\Family\bin\Debug\Family.exe
+C:\Users\10d\source\repos\Pregovor\Family\bin\Debug\Family.pdb
+C:\Users\10d\source\repos\Pregovor\Family\obj\Debug\Family.csprojAssemblyReference.cache
+C:\Users\10d\source\repos\Pregovor\Family\obj\Debug\Family.csproj.CoreCompileInputs.cache
+C:\Users\10d\source\repos\Pregovor\Family\obj\Debug\Family.exe
+C:\Users\10d\source\repos\Pregovor\Family\obj\Debug\Family.pdb

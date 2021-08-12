@@ -1,0 +1,13 @@
+E:\Visual Studio SU\PracticeTest\01. Change Bureau\bin\Debug\netcoreapp3.1\01. Change Bureau.exe
+E:\Visual Studio SU\PracticeTest\01. Change Bureau\bin\Debug\netcoreapp3.1\01. Change Bureau.deps.json
+E:\Visual Studio SU\PracticeTest\01. Change Bureau\bin\Debug\netcoreapp3.1\01. Change Bureau.runtimeconfig.json
+E:\Visual Studio SU\PracticeTest\01. Change Bureau\bin\Debug\netcoreapp3.1\01. Change Bureau.runtimeconfig.dev.json
+E:\Visual Studio SU\PracticeTest\01. Change Bureau\bin\Debug\netcoreapp3.1\01. Change Bureau.dll
+E:\Visual Studio SU\PracticeTest\01. Change Bureau\bin\Debug\netcoreapp3.1\01. Change Bureau.pdb
+E:\Visual Studio SU\PracticeTest\01. Change Bureau\obj\Debug\netcoreapp3.1\01. Change Bureau.csprojAssemblyReference.cache
+E:\Visual Studio SU\PracticeTest\01. Change Bureau\obj\Debug\netcoreapp3.1\01. Change Bureau.AssemblyInfoInputs.cache
+E:\Visual Studio SU\PracticeTest\01. Change Bureau\obj\Debug\netcoreapp3.1\01. Change Bureau.AssemblyInfo.cs
+E:\Visual Studio SU\PracticeTest\01. Change Bureau\obj\Debug\netcoreapp3.1\01. Change Bureau.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\PracticeTest\01. Change Bureau\obj\Debug\netcoreapp3.1\01. Change Bureau.dll
+E:\Visual Studio SU\PracticeTest\01. Change Bureau\obj\Debug\netcoreapp3.1\01. Change Bureau.pdb
+E:\Visual Studio SU\PracticeTest\01. Change Bureau\obj\Debug\netcoreapp3.1\01. Change Bureau.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\10d\source\repos\AccountInRestaurant\ConsoleMVC\obj\Debug\ConsoleMVC.csprojAssemblyReference.cache
+C:\Users\10d\source\repos\AccountInRestaurant\ConsoleMVC\obj\Debug\ConsoleMVC.csproj.CoreCompileInputs.cache
+C:\Users\10d\source\repos\AccountInRestaurant\ConsoleMVC\bin\Debug\ConsoleMVC.exe.config
+C:\Users\10d\source\repos\AccountInRestaurant\ConsoleMVC\bin\Debug\ConsoleMVC.exe
+C:\Users\10d\source\repos\AccountInRestaurant\ConsoleMVC\bin\Debug\ConsoleMVC.pdb
+C:\Users\10d\source\repos\AccountInRestaurant\ConsoleMVC\obj\Debug\ConsoleMVC.exe
+C:\Users\10d\source\repos\AccountInRestaurant\ConsoleMVC\obj\Debug\ConsoleMVC.pdb

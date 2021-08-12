@@ -1,0 +1,13 @@
+E:\Visual Studio SU\PracticeTest\02. Cat Walking\bin\Debug\netcoreapp3.1\02. Cat Walking.exe
+E:\Visual Studio SU\PracticeTest\02. Cat Walking\bin\Debug\netcoreapp3.1\02. Cat Walking.deps.json
+E:\Visual Studio SU\PracticeTest\02. Cat Walking\bin\Debug\netcoreapp3.1\02. Cat Walking.runtimeconfig.json
+E:\Visual Studio SU\PracticeTest\02. Cat Walking\bin\Debug\netcoreapp3.1\02. Cat Walking.runtimeconfig.dev.json
+E:\Visual Studio SU\PracticeTest\02. Cat Walking\bin\Debug\netcoreapp3.1\02. Cat Walking.dll
+E:\Visual Studio SU\PracticeTest\02. Cat Walking\bin\Debug\netcoreapp3.1\02. Cat Walking.pdb
+E:\Visual Studio SU\PracticeTest\02. Cat Walking\obj\Debug\netcoreapp3.1\02. Cat Walking.csprojAssemblyReference.cache
+E:\Visual Studio SU\PracticeTest\02. Cat Walking\obj\Debug\netcoreapp3.1\02. Cat Walking.AssemblyInfoInputs.cache
+E:\Visual Studio SU\PracticeTest\02. Cat Walking\obj\Debug\netcoreapp3.1\02. Cat Walking.AssemblyInfo.cs
+E:\Visual Studio SU\PracticeTest\02. Cat Walking\obj\Debug\netcoreapp3.1\02. Cat Walking.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\PracticeTest\02. Cat Walking\obj\Debug\netcoreapp3.1\02. Cat Walking.dll
+E:\Visual Studio SU\PracticeTest\02. Cat Walking\obj\Debug\netcoreapp3.1\02. Cat Walking.pdb
+E:\Visual Studio SU\PracticeTest\02. Cat Walking\obj\Debug\netcoreapp3.1\02. Cat Walking.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\EGanev\source\repos\15\05. Easter Eggs\bin\Debug\netcoreapp3.1\05. Easter Eggs.exe
+C:\Users\EGanev\source\repos\15\05. Easter Eggs\bin\Debug\netcoreapp3.1\05. Easter Eggs.deps.json
+C:\Users\EGanev\source\repos\15\05. Easter Eggs\bin\Debug\netcoreapp3.1\05. Easter Eggs.runtimeconfig.json
+C:\Users\EGanev\source\repos\15\05. Easter Eggs\bin\Debug\netcoreapp3.1\05. Easter Eggs.runtimeconfig.dev.json
+C:\Users\EGanev\source\repos\15\05. Easter Eggs\bin\Debug\netcoreapp3.1\05. Easter Eggs.dll
+C:\Users\EGanev\source\repos\15\05. Easter Eggs\bin\Debug\netcoreapp3.1\05. Easter Eggs.pdb
+C:\Users\EGanev\source\repos\15\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.csprojAssemblyReference.cache
+C:\Users\EGanev\source\repos\15\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.AssemblyInfoInputs.cache
+C:\Users\EGanev\source\repos\15\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.AssemblyInfo.cs
+C:\Users\EGanev\source\repos\15\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.csproj.CoreCompileInputs.cache
+C:\Users\EGanev\source\repos\15\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.dll
+C:\Users\EGanev\source\repos\15\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.pdb
+C:\Users\EGanev\source\repos\15\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.genruntimeconfig.cache

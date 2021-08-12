@@ -1,0 +1,12 @@
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\6.ForeignLanguages\bin\Debug\netcoreapp3.1\6.ForeignLanguages.exe
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\6.ForeignLanguages\bin\Debug\netcoreapp3.1\6.ForeignLanguages.deps.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\6.ForeignLanguages\bin\Debug\netcoreapp3.1\6.ForeignLanguages.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\6.ForeignLanguages\bin\Debug\netcoreapp3.1\6.ForeignLanguages.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\6.ForeignLanguages\bin\Debug\netcoreapp3.1\6.ForeignLanguages.dll
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\6.ForeignLanguages\bin\Debug\netcoreapp3.1\6.ForeignLanguages.pdb
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\6.ForeignLanguages\obj\Debug\netcoreapp3.1\6.ForeignLanguages.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\6.ForeignLanguages\obj\Debug\netcoreapp3.1\6.ForeignLanguages.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\6.ForeignLanguages\obj\Debug\netcoreapp3.1\6.ForeignLanguages.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\6.ForeignLanguages\obj\Debug\netcoreapp3.1\6.ForeignLanguages.dll
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\6.ForeignLanguages\obj\Debug\netcoreapp3.1\6.ForeignLanguages.pdb
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\6.ForeignLanguages\obj\Debug\netcoreapp3.1\6.ForeignLanguages.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\EGanev\source\repos\15\06. Easter Decoration\bin\Debug\netcoreapp3.1\06. Easter Decoration.exe
+C:\Users\EGanev\source\repos\15\06. Easter Decoration\bin\Debug\netcoreapp3.1\06. Easter Decoration.deps.json
+C:\Users\EGanev\source\repos\15\06. Easter Decoration\bin\Debug\netcoreapp3.1\06. Easter Decoration.runtimeconfig.json
+C:\Users\EGanev\source\repos\15\06. Easter Decoration\bin\Debug\netcoreapp3.1\06. Easter Decoration.runtimeconfig.dev.json
+C:\Users\EGanev\source\repos\15\06. Easter Decoration\bin\Debug\netcoreapp3.1\06. Easter Decoration.dll
+C:\Users\EGanev\source\repos\15\06. Easter Decoration\bin\Debug\netcoreapp3.1\06. Easter Decoration.pdb
+C:\Users\EGanev\source\repos\15\06. Easter Decoration\obj\Debug\netcoreapp3.1\06. Easter Decoration.csprojAssemblyReference.cache
+C:\Users\EGanev\source\repos\15\06. Easter Decoration\obj\Debug\netcoreapp3.1\06. Easter Decoration.AssemblyInfoInputs.cache
+C:\Users\EGanev\source\repos\15\06. Easter Decoration\obj\Debug\netcoreapp3.1\06. Easter Decoration.AssemblyInfo.cs
+C:\Users\EGanev\source\repos\15\06. Easter Decoration\obj\Debug\netcoreapp3.1\06. Easter Decoration.csproj.CoreCompileInputs.cache
+C:\Users\EGanev\source\repos\15\06. Easter Decoration\obj\Debug\netcoreapp3.1\06. Easter Decoration.dll
+C:\Users\EGanev\source\repos\15\06. Easter Decoration\obj\Debug\netcoreapp3.1\06. Easter Decoration.pdb
+C:\Users\EGanev\source\repos\15\06. Easter Decoration\obj\Debug\netcoreapp3.1\06. Easter Decoration.genruntimeconfig.cache

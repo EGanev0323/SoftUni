@@ -1,0 +1,13 @@
+E:\Visual Studio SU\06. Charity Campaign\06. Charity Campaign\bin\Debug\netcoreapp3.1\06. Charity Campaign.exe
+E:\Visual Studio SU\06. Charity Campaign\06. Charity Campaign\bin\Debug\netcoreapp3.1\06. Charity Campaign.deps.json
+E:\Visual Studio SU\06. Charity Campaign\06. Charity Campaign\bin\Debug\netcoreapp3.1\06. Charity Campaign.runtimeconfig.json
+E:\Visual Studio SU\06. Charity Campaign\06. Charity Campaign\bin\Debug\netcoreapp3.1\06. Charity Campaign.runtimeconfig.dev.json
+E:\Visual Studio SU\06. Charity Campaign\06. Charity Campaign\bin\Debug\netcoreapp3.1\06. Charity Campaign.dll
+E:\Visual Studio SU\06. Charity Campaign\06. Charity Campaign\bin\Debug\netcoreapp3.1\06. Charity Campaign.pdb
+E:\Visual Studio SU\06. Charity Campaign\06. Charity Campaign\obj\Debug\netcoreapp3.1\06. Charity Campaign.csprojAssemblyReference.cache
+E:\Visual Studio SU\06. Charity Campaign\06. Charity Campaign\obj\Debug\netcoreapp3.1\06. Charity Campaign.AssemblyInfoInputs.cache
+E:\Visual Studio SU\06. Charity Campaign\06. Charity Campaign\obj\Debug\netcoreapp3.1\06. Charity Campaign.AssemblyInfo.cs
+E:\Visual Studio SU\06. Charity Campaign\06. Charity Campaign\obj\Debug\netcoreapp3.1\06. Charity Campaign.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\06. Charity Campaign\06. Charity Campaign\obj\Debug\netcoreapp3.1\06. Charity Campaign.dll
+E:\Visual Studio SU\06. Charity Campaign\06. Charity Campaign\obj\Debug\netcoreapp3.1\06. Charity Campaign.pdb
+E:\Visual Studio SU\06. Charity Campaign\06. Charity Campaign\obj\Debug\netcoreapp3.1\06. Charity Campaign.genruntimeconfig.cache

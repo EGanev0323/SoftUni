@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\MoreExercise-DataTypesAndVariables\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.exe
+D:\Visual Studio SU\Fundamentals\MoreExercise-DataTypesAndVariables\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.deps.json
+D:\Visual Studio SU\Fundamentals\MoreExercise-DataTypesAndVariables\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\MoreExercise-DataTypesAndVariables\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\MoreExercise-DataTypesAndVariables\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.dll
+D:\Visual Studio SU\Fundamentals\MoreExercise-DataTypesAndVariables\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.pdb
+D:\Visual Studio SU\Fundamentals\MoreExercise-DataTypesAndVariables\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.csprojAssemblyReference.cache
+D:\Visual Studio SU\Fundamentals\MoreExercise-DataTypesAndVariables\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\MoreExercise-DataTypesAndVariables\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\MoreExercise-DataTypesAndVariables\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\MoreExercise-DataTypesAndVariables\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.dll
+D:\Visual Studio SU\Fundamentals\MoreExercise-DataTypesAndVariables\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.pdb
+D:\Visual Studio SU\Fundamentals\MoreExercise-DataTypesAndVariables\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.genruntimeconfig.cache

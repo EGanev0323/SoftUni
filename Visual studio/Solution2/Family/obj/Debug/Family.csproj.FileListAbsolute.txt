@@ -1,0 +1,7 @@
+E:\Visual studio\Solution2\Family\bin\Debug\Family.exe.config
+E:\Visual studio\Solution2\Family\bin\Debug\Family.exe
+E:\Visual studio\Solution2\Family\bin\Debug\Family.pdb
+E:\Visual studio\Solution2\Family\obj\Debug\Family.csprojAssemblyReference.cache
+E:\Visual studio\Solution2\Family\obj\Debug\Family.csproj.CoreCompileInputs.cache
+E:\Visual studio\Solution2\Family\obj\Debug\Family.exe
+E:\Visual studio\Solution2\Family\obj\Debug\Family.pdb

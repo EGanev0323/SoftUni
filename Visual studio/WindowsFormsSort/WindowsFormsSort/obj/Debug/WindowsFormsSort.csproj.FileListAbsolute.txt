@@ -1,0 +1,10 @@
+C:\Users\10d\source\repos\WindowsFormsSort\WindowsFormsSort\bin\Debug\WindowsFormsSort.exe.config
+C:\Users\10d\source\repos\WindowsFormsSort\WindowsFormsSort\bin\Debug\WindowsFormsSort.exe
+C:\Users\10d\source\repos\WindowsFormsSort\WindowsFormsSort\bin\Debug\WindowsFormsSort.pdb
+C:\Users\10d\source\repos\WindowsFormsSort\WindowsFormsSort\obj\Debug\WindowsFormsSort.csprojAssemblyReference.cache
+C:\Users\10d\source\repos\WindowsFormsSort\WindowsFormsSort\obj\Debug\WindowsFormsSort.Form1.resources
+C:\Users\10d\source\repos\WindowsFormsSort\WindowsFormsSort\obj\Debug\WindowsFormsSort.Properties.Resources.resources
+C:\Users\10d\source\repos\WindowsFormsSort\WindowsFormsSort\obj\Debug\WindowsFormsSort.csproj.GenerateResource.cache
+C:\Users\10d\source\repos\WindowsFormsSort\WindowsFormsSort\obj\Debug\WindowsFormsSort.csproj.CoreCompileInputs.cache
+C:\Users\10d\source\repos\WindowsFormsSort\WindowsFormsSort\obj\Debug\WindowsFormsSort.exe
+C:\Users\10d\source\repos\WindowsFormsSort\WindowsFormsSort\obj\Debug\WindowsFormsSort.pdb

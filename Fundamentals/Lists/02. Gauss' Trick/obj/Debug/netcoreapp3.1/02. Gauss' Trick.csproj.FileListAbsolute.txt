@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\Lists\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.exe
+D:\Visual Studio SU\Fundamentals\Lists\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.deps.json
+D:\Visual Studio SU\Fundamentals\Lists\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\Lists\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\Lists\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.dll
+D:\Visual Studio SU\Fundamentals\Lists\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.pdb
+D:\Visual Studio SU\Fundamentals\Lists\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.csprojAssemblyReference.cache
+D:\Visual Studio SU\Fundamentals\Lists\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\Lists\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\Lists\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\Lists\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.dll
+D:\Visual Studio SU\Fundamentals\Lists\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.pdb
+D:\Visual Studio SU\Fundamentals\Lists\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.genruntimeconfig.cache

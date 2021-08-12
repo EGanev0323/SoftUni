@@ -1,0 +1,7 @@
+c:\users\10d\source\repos\Selection sort\Selection sort\bin\Debug\Selection sort.exe.config
+c:\users\10d\source\repos\Selection sort\Selection sort\bin\Debug\Selection sort.exe
+c:\users\10d\source\repos\Selection sort\Selection sort\bin\Debug\Selection sort.pdb
+c:\users\10d\source\repos\Selection sort\Selection sort\obj\Debug\Selection sort.csprojAssemblyReference.cache
+c:\users\10d\source\repos\Selection sort\Selection sort\obj\Debug\Selection sort.csproj.CoreCompileInputs.cache
+c:\users\10d\source\repos\Selection sort\Selection sort\obj\Debug\Selection sort.exe
+c:\users\10d\source\repos\Selection sort\Selection sort\obj\Debug\Selection sort.pdb

@@ -1,0 +1,4 @@
+C:\Users\10d\source\repos\BankAccountProblem\BankAccountMS.Tests\obj\Debug\netcoreapp2.1\BankAccountMS.Tests.csprojAssemblyReference.cache
+C:\Users\10d\source\repos\BankAccountProblem\BankAccountMS.Tests\obj\Debug\netcoreapp2.1\BankAccountMS.Tests.csproj.CoreCompileInputs.cache
+C:\Users\10d\source\repos\BankAccountProblem\BankAccountMS.Tests\obj\Debug\netcoreapp2.1\BankAccountMS.Tests.AssemblyInfoInputs.cache
+C:\Users\10d\source\repos\BankAccountProblem\BankAccountMS.Tests\obj\Debug\netcoreapp2.1\BankAccountMS.Tests.AssemblyInfo.cs

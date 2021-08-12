@@ -1,0 +1,12 @@
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.exe
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.deps.json
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.dll
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.pdb
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.dll
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.pdb
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.genruntimeconfig.cache

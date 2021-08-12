@@ -1,0 +1,6 @@
+E:\Visual studio\Solution2\10d\bin\Debug\10d.exe.config
+E:\Visual studio\Solution2\10d\bin\Debug\10d.exe
+E:\Visual studio\Solution2\10d\bin\Debug\10d.pdb
+E:\Visual studio\Solution2\10d\obj\Debug\10d.csproj.CoreCompileInputs.cache
+E:\Visual studio\Solution2\10d\obj\Debug\10d.exe
+E:\Visual studio\Solution2\10d\obj\Debug\10d.pdb

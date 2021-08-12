@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.exe
+D:\Visual Studio SU\Fundamentals\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.deps.json
+D:\Visual Studio SU\Fundamentals\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.dll
+D:\Visual Studio SU\Fundamentals\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.pdb
+D:\Visual Studio SU\Fundamentals\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.csprojAssemblyReference.cache
+D:\Visual Studio SU\Fundamentals\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.dll
+D:\Visual Studio SU\Fundamentals\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.pdb
+D:\Visual Studio SU\Fundamentals\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.genruntimeconfig.cache

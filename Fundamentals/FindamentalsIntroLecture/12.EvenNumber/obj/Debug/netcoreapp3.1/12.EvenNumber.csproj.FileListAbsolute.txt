@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.exe
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.deps.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.dll
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.pdb
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.dll
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.pdb
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.genruntimeconfig.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.csprojAssemblyReference.cache

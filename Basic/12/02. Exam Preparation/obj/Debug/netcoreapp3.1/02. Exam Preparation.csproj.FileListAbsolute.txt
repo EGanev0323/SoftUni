@@ -1,0 +1,13 @@
+E:\Visual Studio SU\12\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.exe
+E:\Visual Studio SU\12\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.deps.json
+E:\Visual Studio SU\12\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.runtimeconfig.json
+E:\Visual Studio SU\12\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.runtimeconfig.dev.json
+E:\Visual Studio SU\12\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.dll
+E:\Visual Studio SU\12\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.pdb
+E:\Visual Studio SU\12\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.csprojAssemblyReference.cache
+E:\Visual Studio SU\12\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.AssemblyInfoInputs.cache
+E:\Visual Studio SU\12\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.AssemblyInfo.cs
+E:\Visual Studio SU\12\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\12\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.dll
+E:\Visual Studio SU\12\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.pdb
+E:\Visual Studio SU\12\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.genruntimeconfig.cache

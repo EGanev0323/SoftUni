@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\2.Passed\bin\Debug\netcoreapp3.1\2.Passed.exe
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\2.Passed\bin\Debug\netcoreapp3.1\2.Passed.deps.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\2.Passed\bin\Debug\netcoreapp3.1\2.Passed.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\2.Passed\bin\Debug\netcoreapp3.1\2.Passed.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\2.Passed\bin\Debug\netcoreapp3.1\2.Passed.dll
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\2.Passed\bin\Debug\netcoreapp3.1\2.Passed.pdb
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\2.Passed\obj\Debug\netcoreapp3.1\2.Passed.csprojAssemblyReference.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\2.Passed\obj\Debug\netcoreapp3.1\2.Passed.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\2.Passed\obj\Debug\netcoreapp3.1\2.Passed.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\2.Passed\obj\Debug\netcoreapp3.1\2.Passed.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\2.Passed\obj\Debug\netcoreapp3.1\2.Passed.dll
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\2.Passed\obj\Debug\netcoreapp3.1\2.Passed.pdb
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\2.Passed\obj\Debug\netcoreapp3.1\2.Passed.genruntimeconfig.cache

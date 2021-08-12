@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\Exercise-introAndBasicSyntax-MoreExercise\01. Sort Numbers\bin\Debug\netcoreapp3.1\01. Sort Numbers.exe
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\Exercise-introAndBasicSyntax-MoreExercise\01. Sort Numbers\bin\Debug\netcoreapp3.1\01. Sort Numbers.deps.json
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\Exercise-introAndBasicSyntax-MoreExercise\01. Sort Numbers\bin\Debug\netcoreapp3.1\01. Sort Numbers.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\Exercise-introAndBasicSyntax-MoreExercise\01. Sort Numbers\bin\Debug\netcoreapp3.1\01. Sort Numbers.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\Exercise-introAndBasicSyntax-MoreExercise\01. Sort Numbers\bin\Debug\netcoreapp3.1\01. Sort Numbers.dll
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\Exercise-introAndBasicSyntax-MoreExercise\01. Sort Numbers\bin\Debug\netcoreapp3.1\01. Sort Numbers.pdb
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\Exercise-introAndBasicSyntax-MoreExercise\01. Sort Numbers\obj\Debug\netcoreapp3.1\01. Sort Numbers.csprojAssemblyReference.cache
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\Exercise-introAndBasicSyntax-MoreExercise\01. Sort Numbers\obj\Debug\netcoreapp3.1\01. Sort Numbers.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\Exercise-introAndBasicSyntax-MoreExercise\01. Sort Numbers\obj\Debug\netcoreapp3.1\01. Sort Numbers.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\Exercise-introAndBasicSyntax-MoreExercise\01. Sort Numbers\obj\Debug\netcoreapp3.1\01. Sort Numbers.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\Exercise-introAndBasicSyntax-MoreExercise\01. Sort Numbers\obj\Debug\netcoreapp3.1\01. Sort Numbers.dll
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\Exercise-introAndBasicSyntax-MoreExercise\01. Sort Numbers\obj\Debug\netcoreapp3.1\01. Sort Numbers.pdb
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\Exercise-introAndBasicSyntax-MoreExercise\01. Sort Numbers\obj\Debug\netcoreapp3.1\01. Sort Numbers.genruntimeconfig.cache

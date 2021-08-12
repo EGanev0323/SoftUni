@@ -1,0 +1,7 @@
+c:\users\10d\source\repos\data type\data type\bin\Debug\data type.exe.config
+c:\users\10d\source\repos\data type\data type\bin\Debug\data type.exe
+c:\users\10d\source\repos\data type\data type\bin\Debug\data type.pdb
+c:\users\10d\source\repos\data type\data type\obj\Debug\data type.csprojAssemblyReference.cache
+c:\users\10d\source\repos\data type\data type\obj\Debug\data type.csproj.CoreCompileInputs.cache
+c:\users\10d\source\repos\data type\data type\obj\Debug\data type.exe
+c:\users\10d\source\repos\data type\data type\obj\Debug\data type.pdb

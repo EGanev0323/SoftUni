@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\FindamentalsIntroLecture\bin\Debug\netcoreapp3.1\FindamentalsIntroLecture.exe
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\FindamentalsIntroLecture\bin\Debug\netcoreapp3.1\FindamentalsIntroLecture.deps.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\FindamentalsIntroLecture\bin\Debug\netcoreapp3.1\FindamentalsIntroLecture.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\FindamentalsIntroLecture\bin\Debug\netcoreapp3.1\FindamentalsIntroLecture.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\FindamentalsIntroLecture\bin\Debug\netcoreapp3.1\FindamentalsIntroLecture.dll
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\FindamentalsIntroLecture\bin\Debug\netcoreapp3.1\FindamentalsIntroLecture.pdb
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\FindamentalsIntroLecture\obj\Debug\netcoreapp3.1\FindamentalsIntroLecture.csprojAssemblyReference.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\FindamentalsIntroLecture\obj\Debug\netcoreapp3.1\FindamentalsIntroLecture.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\FindamentalsIntroLecture\obj\Debug\netcoreapp3.1\FindamentalsIntroLecture.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\FindamentalsIntroLecture\obj\Debug\netcoreapp3.1\FindamentalsIntroLecture.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\FindamentalsIntroLecture\obj\Debug\netcoreapp3.1\FindamentalsIntroLecture.dll
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\FindamentalsIntroLecture\obj\Debug\netcoreapp3.1\FindamentalsIntroLecture.pdb
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\FindamentalsIntroLecture\obj\Debug\netcoreapp3.1\FindamentalsIntroLecture.genruntimeconfig.cache

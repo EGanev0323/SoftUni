@@ -1,0 +1,13 @@
+E:\Visual Studio SU\02\07. World Swimming Record\bin\Debug\netcoreapp3.1\07. World Swimming Record.exe
+E:\Visual Studio SU\02\07. World Swimming Record\bin\Debug\netcoreapp3.1\07. World Swimming Record.deps.json
+E:\Visual Studio SU\02\07. World Swimming Record\bin\Debug\netcoreapp3.1\07. World Swimming Record.runtimeconfig.json
+E:\Visual Studio SU\02\07. World Swimming Record\bin\Debug\netcoreapp3.1\07. World Swimming Record.runtimeconfig.dev.json
+E:\Visual Studio SU\02\07. World Swimming Record\bin\Debug\netcoreapp3.1\07. World Swimming Record.dll
+E:\Visual Studio SU\02\07. World Swimming Record\bin\Debug\netcoreapp3.1\07. World Swimming Record.pdb
+E:\Visual Studio SU\02\07. World Swimming Record\obj\Debug\netcoreapp3.1\07. World Swimming Record.csprojAssemblyReference.cache
+E:\Visual Studio SU\02\07. World Swimming Record\obj\Debug\netcoreapp3.1\07. World Swimming Record.AssemblyInfoInputs.cache
+E:\Visual Studio SU\02\07. World Swimming Record\obj\Debug\netcoreapp3.1\07. World Swimming Record.AssemblyInfo.cs
+E:\Visual Studio SU\02\07. World Swimming Record\obj\Debug\netcoreapp3.1\07. World Swimming Record.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\02\07. World Swimming Record\obj\Debug\netcoreapp3.1\07. World Swimming Record.dll
+E:\Visual Studio SU\02\07. World Swimming Record\obj\Debug\netcoreapp3.1\07. World Swimming Record.pdb
+E:\Visual Studio SU\02\07. World Swimming Record\obj\Debug\netcoreapp3.1\07. World Swimming Record.genruntimeconfig.cache

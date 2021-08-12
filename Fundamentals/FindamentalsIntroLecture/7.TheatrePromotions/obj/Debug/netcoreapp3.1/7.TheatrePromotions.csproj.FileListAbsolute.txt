@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\7.TheatrePromotions\bin\Debug\netcoreapp3.1\7.TheatrePromotions.exe
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\7.TheatrePromotions\bin\Debug\netcoreapp3.1\7.TheatrePromotions.deps.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\7.TheatrePromotions\bin\Debug\netcoreapp3.1\7.TheatrePromotions.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\7.TheatrePromotions\bin\Debug\netcoreapp3.1\7.TheatrePromotions.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\7.TheatrePromotions\bin\Debug\netcoreapp3.1\7.TheatrePromotions.dll
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\7.TheatrePromotions\bin\Debug\netcoreapp3.1\7.TheatrePromotions.pdb
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\7.TheatrePromotions\obj\Debug\netcoreapp3.1\7.TheatrePromotions.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\7.TheatrePromotions\obj\Debug\netcoreapp3.1\7.TheatrePromotions.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\7.TheatrePromotions\obj\Debug\netcoreapp3.1\7.TheatrePromotions.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\7.TheatrePromotions\obj\Debug\netcoreapp3.1\7.TheatrePromotions.dll
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\7.TheatrePromotions\obj\Debug\netcoreapp3.1\7.TheatrePromotions.pdb
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\7.TheatrePromotions\obj\Debug\netcoreapp3.1\7.TheatrePromotions.genruntimeconfig.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\7.TheatrePromotions\obj\Debug\netcoreapp3.1\7.TheatrePromotions.csprojAssemblyReference.cache

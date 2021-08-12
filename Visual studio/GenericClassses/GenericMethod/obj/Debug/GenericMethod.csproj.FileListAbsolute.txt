@@ -1,0 +1,7 @@
+C:\Users\10d\source\repos\GenericClassses\GenericMethod\bin\Debug\GenericMethod.exe.config
+C:\Users\10d\source\repos\GenericClassses\GenericMethod\bin\Debug\GenericMethod.exe
+C:\Users\10d\source\repos\GenericClassses\GenericMethod\bin\Debug\GenericMethod.pdb
+C:\Users\10d\source\repos\GenericClassses\GenericMethod\obj\Debug\GenericMethod.csprojAssemblyReference.cache
+C:\Users\10d\source\repos\GenericClassses\GenericMethod\obj\Debug\GenericMethod.csproj.CoreCompileInputs.cache
+C:\Users\10d\source\repos\GenericClassses\GenericMethod\obj\Debug\GenericMethod.exe
+C:\Users\10d\source\repos\GenericClassses\GenericMethod\obj\Debug\GenericMethod.pdb

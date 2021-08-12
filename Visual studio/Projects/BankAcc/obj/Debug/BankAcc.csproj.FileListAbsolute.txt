@@ -1,0 +1,7 @@
+C:\Users\10d\source\repos\Projects\BankAcc\bin\Debug\BankAcc.exe.config
+C:\Users\10d\source\repos\Projects\BankAcc\bin\Debug\BankAcc.exe
+C:\Users\10d\source\repos\Projects\BankAcc\bin\Debug\BankAcc.pdb
+C:\Users\10d\source\repos\Projects\BankAcc\obj\Debug\BankAcc.csprojAssemblyReference.cache
+C:\Users\10d\source\repos\Projects\BankAcc\obj\Debug\BankAcc.csproj.CoreCompileInputs.cache
+C:\Users\10d\source\repos\Projects\BankAcc\obj\Debug\BankAcc.exe
+C:\Users\10d\source\repos\Projects\BankAcc\obj\Debug\BankAcc.pdb

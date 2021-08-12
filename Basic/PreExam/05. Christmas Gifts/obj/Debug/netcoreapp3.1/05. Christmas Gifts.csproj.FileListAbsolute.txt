@@ -1,0 +1,26 @@
+C:\Users\EGanev\source\repos\PreExam\05. Christmas Gifts\bin\Debug\netcoreapp3.1\05. Christmas Gifts.exe
+C:\Users\EGanev\source\repos\PreExam\05. Christmas Gifts\bin\Debug\netcoreapp3.1\05. Christmas Gifts.deps.json
+C:\Users\EGanev\source\repos\PreExam\05. Christmas Gifts\bin\Debug\netcoreapp3.1\05. Christmas Gifts.runtimeconfig.json
+C:\Users\EGanev\source\repos\PreExam\05. Christmas Gifts\bin\Debug\netcoreapp3.1\05. Christmas Gifts.runtimeconfig.dev.json
+C:\Users\EGanev\source\repos\PreExam\05. Christmas Gifts\bin\Debug\netcoreapp3.1\05. Christmas Gifts.dll
+C:\Users\EGanev\source\repos\PreExam\05. Christmas Gifts\bin\Debug\netcoreapp3.1\05. Christmas Gifts.pdb
+C:\Users\EGanev\source\repos\PreExam\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.csprojAssemblyReference.cache
+C:\Users\EGanev\source\repos\PreExam\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.AssemblyInfoInputs.cache
+C:\Users\EGanev\source\repos\PreExam\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.AssemblyInfo.cs
+C:\Users\EGanev\source\repos\PreExam\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.csproj.CoreCompileInputs.cache
+C:\Users\EGanev\source\repos\PreExam\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.dll
+C:\Users\EGanev\source\repos\PreExam\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.pdb
+C:\Users\EGanev\source\repos\PreExam\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.genruntimeconfig.cache
+E:\Visual Studio SU\PreExam\05. Christmas Gifts\bin\Debug\netcoreapp3.1\05. Christmas Gifts.exe
+E:\Visual Studio SU\PreExam\05. Christmas Gifts\bin\Debug\netcoreapp3.1\05. Christmas Gifts.deps.json
+E:\Visual Studio SU\PreExam\05. Christmas Gifts\bin\Debug\netcoreapp3.1\05. Christmas Gifts.runtimeconfig.json
+E:\Visual Studio SU\PreExam\05. Christmas Gifts\bin\Debug\netcoreapp3.1\05. Christmas Gifts.runtimeconfig.dev.json
+E:\Visual Studio SU\PreExam\05. Christmas Gifts\bin\Debug\netcoreapp3.1\05. Christmas Gifts.dll
+E:\Visual Studio SU\PreExam\05. Christmas Gifts\bin\Debug\netcoreapp3.1\05. Christmas Gifts.pdb
+E:\Visual Studio SU\PreExam\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.csprojAssemblyReference.cache
+E:\Visual Studio SU\PreExam\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.AssemblyInfoInputs.cache
+E:\Visual Studio SU\PreExam\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.AssemblyInfo.cs
+E:\Visual Studio SU\PreExam\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\PreExam\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.dll
+E:\Visual Studio SU\PreExam\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.pdb
+E:\Visual Studio SU\PreExam\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.genruntimeconfig.cache

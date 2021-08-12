@@ -1,0 +1,13 @@
+E:\Visual Studio SU\07\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.exe
+E:\Visual Studio SU\07\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.deps.json
+E:\Visual Studio SU\07\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.runtimeconfig.json
+E:\Visual Studio SU\07\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.runtimeconfig.dev.json
+E:\Visual Studio SU\07\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.dll
+E:\Visual Studio SU\07\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.pdb
+E:\Visual Studio SU\07\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.csprojAssemblyReference.cache
+E:\Visual Studio SU\07\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.AssemblyInfoInputs.cache
+E:\Visual Studio SU\07\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.AssemblyInfo.cs
+E:\Visual Studio SU\07\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\07\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.dll
+E:\Visual Studio SU\07\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.pdb
+E:\Visual Studio SU\07\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.genruntimeconfig.cache

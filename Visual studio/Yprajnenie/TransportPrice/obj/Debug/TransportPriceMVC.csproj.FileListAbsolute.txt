@@ -1,0 +1,2 @@
+C:\Users\10d\source\repos\Yprajnenie\TransportPrice\obj\Debug\TransportPriceMVC.csprojAssemblyReference.cache
+C:\Users\10d\source\repos\Yprajnenie\TransportPrice\obj\Debug\TransportPriceMVC.csproj.CoreCompileInputs.cache

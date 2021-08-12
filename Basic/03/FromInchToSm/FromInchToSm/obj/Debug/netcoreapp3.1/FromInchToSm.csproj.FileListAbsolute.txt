@@ -1,0 +1,12 @@
+E:\Visual Studio SU\FromInchToSm\FromInchToSm\bin\Debug\netcoreapp3.1\FromInchToSm.exe
+E:\Visual Studio SU\FromInchToSm\FromInchToSm\bin\Debug\netcoreapp3.1\FromInchToSm.deps.json
+E:\Visual Studio SU\FromInchToSm\FromInchToSm\bin\Debug\netcoreapp3.1\FromInchToSm.runtimeconfig.json
+E:\Visual Studio SU\FromInchToSm\FromInchToSm\bin\Debug\netcoreapp3.1\FromInchToSm.runtimeconfig.dev.json
+E:\Visual Studio SU\FromInchToSm\FromInchToSm\bin\Debug\netcoreapp3.1\FromInchToSm.dll
+E:\Visual Studio SU\FromInchToSm\FromInchToSm\bin\Debug\netcoreapp3.1\FromInchToSm.pdb
+E:\Visual Studio SU\FromInchToSm\FromInchToSm\obj\Debug\netcoreapp3.1\FromInchToSm.AssemblyInfoInputs.cache
+E:\Visual Studio SU\FromInchToSm\FromInchToSm\obj\Debug\netcoreapp3.1\FromInchToSm.AssemblyInfo.cs
+E:\Visual Studio SU\FromInchToSm\FromInchToSm\obj\Debug\netcoreapp3.1\FromInchToSm.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\FromInchToSm\FromInchToSm\obj\Debug\netcoreapp3.1\FromInchToSm.dll
+E:\Visual Studio SU\FromInchToSm\FromInchToSm\obj\Debug\netcoreapp3.1\FromInchToSm.pdb
+E:\Visual Studio SU\FromInchToSm\FromInchToSm\obj\Debug\netcoreapp3.1\FromInchToSm.genruntimeconfig.cache

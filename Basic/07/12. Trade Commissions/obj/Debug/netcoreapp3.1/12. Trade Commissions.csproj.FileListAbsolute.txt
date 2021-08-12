@@ -1,0 +1,13 @@
+E:\Visual Studio SU\07\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.exe
+E:\Visual Studio SU\07\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.deps.json
+E:\Visual Studio SU\07\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.runtimeconfig.json
+E:\Visual Studio SU\07\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.runtimeconfig.dev.json
+E:\Visual Studio SU\07\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.dll
+E:\Visual Studio SU\07\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.pdb
+E:\Visual Studio SU\07\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.AssemblyInfoInputs.cache
+E:\Visual Studio SU\07\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.AssemblyInfo.cs
+E:\Visual Studio SU\07\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\07\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.dll
+E:\Visual Studio SU\07\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.pdb
+E:\Visual Studio SU\07\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.genruntimeconfig.cache
+E:\Visual Studio SU\07\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.csprojAssemblyReference.cache

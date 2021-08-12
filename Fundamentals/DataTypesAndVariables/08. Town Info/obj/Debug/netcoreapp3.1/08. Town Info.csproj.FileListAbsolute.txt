@@ -1,0 +1,12 @@
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.exe
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.deps.json
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.dll
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.pdb
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.dll
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.pdb
+D:\Visual Studio SU\Fundamentals\DataTypesAndVariables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.genruntimeconfig.cache

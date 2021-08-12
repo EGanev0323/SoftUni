@@ -1,0 +1,13 @@
+C:\Users\EGanev\source\repos\15\02. Movie Day\bin\Debug\netcoreapp3.1\02. Movie Day.exe
+C:\Users\EGanev\source\repos\15\02. Movie Day\bin\Debug\netcoreapp3.1\02. Movie Day.deps.json
+C:\Users\EGanev\source\repos\15\02. Movie Day\bin\Debug\netcoreapp3.1\02. Movie Day.runtimeconfig.json
+C:\Users\EGanev\source\repos\15\02. Movie Day\bin\Debug\netcoreapp3.1\02. Movie Day.runtimeconfig.dev.json
+C:\Users\EGanev\source\repos\15\02. Movie Day\bin\Debug\netcoreapp3.1\02. Movie Day.dll
+C:\Users\EGanev\source\repos\15\02. Movie Day\bin\Debug\netcoreapp3.1\02. Movie Day.pdb
+C:\Users\EGanev\source\repos\15\02. Movie Day\obj\Debug\netcoreapp3.1\02. Movie Day.csprojAssemblyReference.cache
+C:\Users\EGanev\source\repos\15\02. Movie Day\obj\Debug\netcoreapp3.1\02. Movie Day.AssemblyInfoInputs.cache
+C:\Users\EGanev\source\repos\15\02. Movie Day\obj\Debug\netcoreapp3.1\02. Movie Day.AssemblyInfo.cs
+C:\Users\EGanev\source\repos\15\02. Movie Day\obj\Debug\netcoreapp3.1\02. Movie Day.csproj.CoreCompileInputs.cache
+C:\Users\EGanev\source\repos\15\02. Movie Day\obj\Debug\netcoreapp3.1\02. Movie Day.dll
+C:\Users\EGanev\source\repos\15\02. Movie Day\obj\Debug\netcoreapp3.1\02. Movie Day.pdb
+C:\Users\EGanev\source\repos\15\02. Movie Day\obj\Debug\netcoreapp3.1\02. Movie Day.genruntimeconfig.cache

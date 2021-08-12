@@ -1,0 +1,13 @@
+E:\Visual Studio SU\12\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.exe
+E:\Visual Studio SU\12\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.deps.json
+E:\Visual Studio SU\12\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.runtimeconfig.json
+E:\Visual Studio SU\12\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.runtimeconfig.dev.json
+E:\Visual Studio SU\12\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.dll
+E:\Visual Studio SU\12\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.pdb
+E:\Visual Studio SU\12\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.csprojAssemblyReference.cache
+E:\Visual Studio SU\12\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.AssemblyInfoInputs.cache
+E:\Visual Studio SU\12\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.AssemblyInfo.cs
+E:\Visual Studio SU\12\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\12\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.dll
+E:\Visual Studio SU\12\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.pdb
+E:\Visual Studio SU\12\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.genruntimeconfig.cache

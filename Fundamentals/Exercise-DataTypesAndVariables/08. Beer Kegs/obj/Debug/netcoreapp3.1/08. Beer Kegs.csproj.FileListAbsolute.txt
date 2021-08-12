@@ -1,0 +1,12 @@
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.exe
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.deps.json
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.dll
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.pdb
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.dll
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.pdb
+D:\Visual Studio SU\Fundamentals\Exercise-DataTypesAndVariables\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.genruntimeconfig.cache

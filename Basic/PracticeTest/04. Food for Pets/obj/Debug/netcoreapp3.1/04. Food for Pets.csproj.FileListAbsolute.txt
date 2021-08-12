@@ -1,0 +1,12 @@
+E:\Visual Studio SU\PracticeTest\04. Food for Pets\bin\Debug\netcoreapp3.1\04. Food for Pets.exe
+E:\Visual Studio SU\PracticeTest\04. Food for Pets\bin\Debug\netcoreapp3.1\04. Food for Pets.deps.json
+E:\Visual Studio SU\PracticeTest\04. Food for Pets\bin\Debug\netcoreapp3.1\04. Food for Pets.runtimeconfig.json
+E:\Visual Studio SU\PracticeTest\04. Food for Pets\bin\Debug\netcoreapp3.1\04. Food for Pets.runtimeconfig.dev.json
+E:\Visual Studio SU\PracticeTest\04. Food for Pets\bin\Debug\netcoreapp3.1\04. Food for Pets.dll
+E:\Visual Studio SU\PracticeTest\04. Food for Pets\bin\Debug\netcoreapp3.1\04. Food for Pets.pdb
+E:\Visual Studio SU\PracticeTest\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.AssemblyInfoInputs.cache
+E:\Visual Studio SU\PracticeTest\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.AssemblyInfo.cs
+E:\Visual Studio SU\PracticeTest\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\PracticeTest\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.dll
+E:\Visual Studio SU\PracticeTest\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.pdb
+E:\Visual Studio SU\PracticeTest\04. Food for Pets\obj\Debug\netcoreapp3.1\04. Food for Pets.genruntimeconfig.cache

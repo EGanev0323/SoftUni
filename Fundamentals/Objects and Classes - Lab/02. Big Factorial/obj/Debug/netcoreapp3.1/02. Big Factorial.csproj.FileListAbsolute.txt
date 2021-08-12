@@ -1,0 +1,12 @@
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.exe
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.deps.json
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.dll
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.pdb
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.dll
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.pdb
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.genruntimeconfig.cache

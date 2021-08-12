@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.exe
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.deps.json
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.dll
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.pdb
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.dll
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.pdb
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.genruntimeconfig.cache
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+E:\Visual Studio SU\07. Fruit Market\07. Fruit Market\bin\Debug\netcoreapp3.1\07. Fruit Market.exe
+E:\Visual Studio SU\07. Fruit Market\07. Fruit Market\bin\Debug\netcoreapp3.1\07. Fruit Market.deps.json
+E:\Visual Studio SU\07. Fruit Market\07. Fruit Market\bin\Debug\netcoreapp3.1\07. Fruit Market.runtimeconfig.json
+E:\Visual Studio SU\07. Fruit Market\07. Fruit Market\bin\Debug\netcoreapp3.1\07. Fruit Market.runtimeconfig.dev.json
+E:\Visual Studio SU\07. Fruit Market\07. Fruit Market\bin\Debug\netcoreapp3.1\07. Fruit Market.dll
+E:\Visual Studio SU\07. Fruit Market\07. Fruit Market\bin\Debug\netcoreapp3.1\07. Fruit Market.pdb
+E:\Visual Studio SU\07. Fruit Market\07. Fruit Market\obj\Debug\netcoreapp3.1\07. Fruit Market.csprojAssemblyReference.cache
+E:\Visual Studio SU\07. Fruit Market\07. Fruit Market\obj\Debug\netcoreapp3.1\07. Fruit Market.AssemblyInfoInputs.cache
+E:\Visual Studio SU\07. Fruit Market\07. Fruit Market\obj\Debug\netcoreapp3.1\07. Fruit Market.AssemblyInfo.cs
+E:\Visual Studio SU\07. Fruit Market\07. Fruit Market\obj\Debug\netcoreapp3.1\07. Fruit Market.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\07. Fruit Market\07. Fruit Market\obj\Debug\netcoreapp3.1\07. Fruit Market.dll
+E:\Visual Studio SU\07. Fruit Market\07. Fruit Market\obj\Debug\netcoreapp3.1\07. Fruit Market.pdb
+E:\Visual Studio SU\07. Fruit Market\07. Fruit Market\obj\Debug\netcoreapp3.1\07. Fruit Market.genruntimeconfig.cache

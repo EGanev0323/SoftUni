@@ -1,0 +1,13 @@
+C:\Users\EGanev\source\repos\15\03. Easter Trip\bin\Debug\netcoreapp3.1\03. Easter Trip.exe
+C:\Users\EGanev\source\repos\15\03. Easter Trip\bin\Debug\netcoreapp3.1\03. Easter Trip.deps.json
+C:\Users\EGanev\source\repos\15\03. Easter Trip\bin\Debug\netcoreapp3.1\03. Easter Trip.runtimeconfig.json
+C:\Users\EGanev\source\repos\15\03. Easter Trip\bin\Debug\netcoreapp3.1\03. Easter Trip.runtimeconfig.dev.json
+C:\Users\EGanev\source\repos\15\03. Easter Trip\bin\Debug\netcoreapp3.1\03. Easter Trip.dll
+C:\Users\EGanev\source\repos\15\03. Easter Trip\bin\Debug\netcoreapp3.1\03. Easter Trip.pdb
+C:\Users\EGanev\source\repos\15\03. Easter Trip\obj\Debug\netcoreapp3.1\03. Easter Trip.csprojAssemblyReference.cache
+C:\Users\EGanev\source\repos\15\03. Easter Trip\obj\Debug\netcoreapp3.1\03. Easter Trip.AssemblyInfoInputs.cache
+C:\Users\EGanev\source\repos\15\03. Easter Trip\obj\Debug\netcoreapp3.1\03. Easter Trip.AssemblyInfo.cs
+C:\Users\EGanev\source\repos\15\03. Easter Trip\obj\Debug\netcoreapp3.1\03. Easter Trip.csproj.CoreCompileInputs.cache
+C:\Users\EGanev\source\repos\15\03. Easter Trip\obj\Debug\netcoreapp3.1\03. Easter Trip.dll
+C:\Users\EGanev\source\repos\15\03. Easter Trip\obj\Debug\netcoreapp3.1\03. Easter Trip.pdb
+C:\Users\EGanev\source\repos\15\03. Easter Trip\obj\Debug\netcoreapp3.1\03. Easter Trip.genruntimeconfig.cache

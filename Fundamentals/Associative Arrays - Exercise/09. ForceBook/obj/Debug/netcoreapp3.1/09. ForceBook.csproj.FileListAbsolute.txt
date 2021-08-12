@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.exe
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.deps.json
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.dll
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.pdb
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.csprojAssemblyReference.cache
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.dll
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.pdb
+D:\Visual Studio SU\Fundamentals\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.genruntimeconfig.cache

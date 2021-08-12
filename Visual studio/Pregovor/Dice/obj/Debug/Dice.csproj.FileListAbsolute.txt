@@ -1,0 +1,7 @@
+C:\Users\10d\source\repos\Pregovor\Dice\bin\Debug\Dice.exe.config
+C:\Users\10d\source\repos\Pregovor\Dice\bin\Debug\Dice.exe
+C:\Users\10d\source\repos\Pregovor\Dice\bin\Debug\Dice.pdb
+C:\Users\10d\source\repos\Pregovor\Dice\obj\Debug\Dice.csprojAssemblyReference.cache
+C:\Users\10d\source\repos\Pregovor\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
+C:\Users\10d\source\repos\Pregovor\Dice\obj\Debug\Dice.exe
+C:\Users\10d\source\repos\Pregovor\Dice\obj\Debug\Dice.pdb

@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.exe
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.deps.json
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.dll
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.pdb
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.csprojAssemblyReference.cache
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.dll
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.pdb
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.genruntimeconfig.cache

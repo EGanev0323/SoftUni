@@ -1,0 +1,7 @@
+C:\Users\10d\source\repos\GenericClassses\StringCounter\bin\Debug\StringCounter.exe.config
+C:\Users\10d\source\repos\GenericClassses\StringCounter\bin\Debug\StringCounter.exe
+C:\Users\10d\source\repos\GenericClassses\StringCounter\bin\Debug\StringCounter.pdb
+C:\Users\10d\source\repos\GenericClassses\StringCounter\obj\Debug\StringCounter.csprojAssemblyReference.cache
+C:\Users\10d\source\repos\GenericClassses\StringCounter\obj\Debug\StringCounter.csproj.CoreCompileInputs.cache
+C:\Users\10d\source\repos\GenericClassses\StringCounter\obj\Debug\StringCounter.exe
+C:\Users\10d\source\repos\GenericClassses\StringCounter\obj\Debug\StringCounter.pdb

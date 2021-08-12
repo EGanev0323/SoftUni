@@ -1,0 +1,13 @@
+C:\Users\EGanev\source\repos\15\04. Darts\bin\Debug\netcoreapp3.1\04. Darts.exe
+C:\Users\EGanev\source\repos\15\04. Darts\bin\Debug\netcoreapp3.1\04. Darts.deps.json
+C:\Users\EGanev\source\repos\15\04. Darts\bin\Debug\netcoreapp3.1\04. Darts.runtimeconfig.json
+C:\Users\EGanev\source\repos\15\04. Darts\bin\Debug\netcoreapp3.1\04. Darts.runtimeconfig.dev.json
+C:\Users\EGanev\source\repos\15\04. Darts\bin\Debug\netcoreapp3.1\04. Darts.dll
+C:\Users\EGanev\source\repos\15\04. Darts\bin\Debug\netcoreapp3.1\04. Darts.pdb
+C:\Users\EGanev\source\repos\15\04. Darts\obj\Debug\netcoreapp3.1\04. Darts.csprojAssemblyReference.cache
+C:\Users\EGanev\source\repos\15\04. Darts\obj\Debug\netcoreapp3.1\04. Darts.AssemblyInfoInputs.cache
+C:\Users\EGanev\source\repos\15\04. Darts\obj\Debug\netcoreapp3.1\04. Darts.AssemblyInfo.cs
+C:\Users\EGanev\source\repos\15\04. Darts\obj\Debug\netcoreapp3.1\04. Darts.csproj.CoreCompileInputs.cache
+C:\Users\EGanev\source\repos\15\04. Darts\obj\Debug\netcoreapp3.1\04. Darts.dll
+C:\Users\EGanev\source\repos\15\04. Darts\obj\Debug\netcoreapp3.1\04. Darts.pdb
+C:\Users\EGanev\source\repos\15\04. Darts\obj\Debug\netcoreapp3.1\04. Darts.genruntimeconfig.cache

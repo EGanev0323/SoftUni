@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Exercise\04. Star Enigma (not included in final score)\bin\Debug\netcoreapp3.1\04. Star Enigma (not included in final score).exe
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Exercise\04. Star Enigma (not included in final score)\bin\Debug\netcoreapp3.1\04. Star Enigma (not included in final score).deps.json
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Exercise\04. Star Enigma (not included in final score)\bin\Debug\netcoreapp3.1\04. Star Enigma (not included in final score).runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Exercise\04. Star Enigma (not included in final score)\bin\Debug\netcoreapp3.1\04. Star Enigma (not included in final score).runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Exercise\04. Star Enigma (not included in final score)\bin\Debug\netcoreapp3.1\04. Star Enigma (not included in final score).dll
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Exercise\04. Star Enigma (not included in final score)\bin\Debug\netcoreapp3.1\04. Star Enigma (not included in final score).pdb
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Exercise\04. Star Enigma (not included in final score)\obj\Debug\netcoreapp3.1\04. Star Enigma (not included in final score).AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Exercise\04. Star Enigma (not included in final score)\obj\Debug\netcoreapp3.1\04. Star Enigma (not included in final score).AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Exercise\04. Star Enigma (not included in final score)\obj\Debug\netcoreapp3.1\04. Star Enigma (not included in final score).csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Exercise\04. Star Enigma (not included in final score)\obj\Debug\netcoreapp3.1\04. Star Enigma (not included in final score).dll
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Exercise\04. Star Enigma (not included in final score)\obj\Debug\netcoreapp3.1\04. Star Enigma (not included in final score).pdb
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Exercise\04. Star Enigma (not included in final score)\obj\Debug\netcoreapp3.1\04. Star Enigma (not included in final score).genruntimeconfig.cache
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Exercise\04. Star Enigma (not included in final score)\obj\Debug\netcoreapp3.1\04. Star Enigma (not included in final score).csprojAssemblyReference.cache

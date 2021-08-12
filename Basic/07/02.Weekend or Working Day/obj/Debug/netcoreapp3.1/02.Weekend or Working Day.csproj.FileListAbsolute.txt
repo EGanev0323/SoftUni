@@ -1,0 +1,13 @@
+E:\Visual Studio SU\07\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.exe
+E:\Visual Studio SU\07\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.deps.json
+E:\Visual Studio SU\07\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.runtimeconfig.json
+E:\Visual Studio SU\07\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.runtimeconfig.dev.json
+E:\Visual Studio SU\07\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.dll
+E:\Visual Studio SU\07\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.pdb
+E:\Visual Studio SU\07\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.csprojAssemblyReference.cache
+E:\Visual Studio SU\07\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.AssemblyInfoInputs.cache
+E:\Visual Studio SU\07\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.AssemblyInfo.cs
+E:\Visual Studio SU\07\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\07\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.dll
+E:\Visual Studio SU\07\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.pdb
+E:\Visual Studio SU\07\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.genruntimeconfig.cache

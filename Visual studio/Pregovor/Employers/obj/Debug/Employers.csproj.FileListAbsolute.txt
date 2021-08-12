@@ -1,0 +1,7 @@
+C:\Users\10d\source\repos\Pregovor\Employers\bin\Debug\Employers.exe.config
+C:\Users\10d\source\repos\Pregovor\Employers\bin\Debug\Employers.exe
+C:\Users\10d\source\repos\Pregovor\Employers\bin\Debug\Employers.pdb
+C:\Users\10d\source\repos\Pregovor\Employers\obj\Debug\Employers.csprojAssemblyReference.cache
+C:\Users\10d\source\repos\Pregovor\Employers\obj\Debug\Employers.csproj.CoreCompileInputs.cache
+C:\Users\10d\source\repos\Pregovor\Employers\obj\Debug\Employers.exe
+C:\Users\10d\source\repos\Pregovor\Employers\obj\Debug\Employers.pdb

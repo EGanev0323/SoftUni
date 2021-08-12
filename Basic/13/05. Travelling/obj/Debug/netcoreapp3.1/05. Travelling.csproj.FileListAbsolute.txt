@@ -1,0 +1,12 @@
+E:\Visual Studio SU\13\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.exe
+E:\Visual Studio SU\13\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.deps.json
+E:\Visual Studio SU\13\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.runtimeconfig.json
+E:\Visual Studio SU\13\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.runtimeconfig.dev.json
+E:\Visual Studio SU\13\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.dll
+E:\Visual Studio SU\13\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.pdb
+E:\Visual Studio SU\13\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.AssemblyInfoInputs.cache
+E:\Visual Studio SU\13\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.AssemblyInfo.cs
+E:\Visual Studio SU\13\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\13\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.dll
+E:\Visual Studio SU\13\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.pdb
+E:\Visual Studio SU\13\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.genruntimeconfig.cache

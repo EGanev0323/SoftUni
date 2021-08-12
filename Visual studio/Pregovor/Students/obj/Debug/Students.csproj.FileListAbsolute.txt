@@ -1,0 +1,7 @@
+C:\Users\10d\source\repos\Pregovor\Students\bin\Debug\Students.exe.config
+C:\Users\10d\source\repos\Pregovor\Students\bin\Debug\Students.exe
+C:\Users\10d\source\repos\Pregovor\Students\bin\Debug\Students.pdb
+C:\Users\10d\source\repos\Pregovor\Students\obj\Debug\Students.csprojAssemblyReference.cache
+C:\Users\10d\source\repos\Pregovor\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\10d\source\repos\Pregovor\Students\obj\Debug\Students.exe
+C:\Users\10d\source\repos\Pregovor\Students\obj\Debug\Students.pdb

@@ -1,0 +1,7 @@
+C:\Users\10d\source\repos\AccountInRestaurant\AccountWithTip\bin\Debug\AccountWithTip.exe.config
+C:\Users\10d\source\repos\AccountInRestaurant\AccountWithTip\bin\Debug\AccountWithTip.exe
+C:\Users\10d\source\repos\AccountInRestaurant\AccountWithTip\bin\Debug\AccountWithTip.pdb
+C:\Users\10d\source\repos\AccountInRestaurant\AccountWithTip\obj\Debug\AccountWithTip.csprojAssemblyReference.cache
+C:\Users\10d\source\repos\AccountInRestaurant\AccountWithTip\obj\Debug\AccountWithTip.csproj.CoreCompileInputs.cache
+C:\Users\10d\source\repos\AccountInRestaurant\AccountWithTip\obj\Debug\AccountWithTip.exe
+C:\Users\10d\source\repos\AccountInRestaurant\AccountWithTip\obj\Debug\AccountWithTip.pdb

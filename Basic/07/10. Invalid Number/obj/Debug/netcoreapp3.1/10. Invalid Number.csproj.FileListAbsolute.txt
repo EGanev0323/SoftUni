@@ -1,0 +1,12 @@
+E:\Visual Studio SU\07\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.exe
+E:\Visual Studio SU\07\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.deps.json
+E:\Visual Studio SU\07\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.runtimeconfig.json
+E:\Visual Studio SU\07\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.runtimeconfig.dev.json
+E:\Visual Studio SU\07\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.dll
+E:\Visual Studio SU\07\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.pdb
+E:\Visual Studio SU\07\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.AssemblyInfoInputs.cache
+E:\Visual Studio SU\07\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.AssemblyInfo.cs
+E:\Visual Studio SU\07\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\07\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.dll
+E:\Visual Studio SU\07\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.pdb
+E:\Visual Studio SU\07\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.genruntimeconfig.cache

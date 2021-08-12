@@ -1,0 +1,7 @@
+C:\Users\10d\source\repos\GenericClassses\BoxClass\bin\Debug\BoxClass.exe.config
+C:\Users\10d\source\repos\GenericClassses\BoxClass\bin\Debug\BoxClass.exe
+C:\Users\10d\source\repos\GenericClassses\BoxClass\bin\Debug\BoxClass.pdb
+C:\Users\10d\source\repos\GenericClassses\BoxClass\obj\Debug\BoxClass.csprojAssemblyReference.cache
+C:\Users\10d\source\repos\GenericClassses\BoxClass\obj\Debug\BoxClass.csproj.CoreCompileInputs.cache
+C:\Users\10d\source\repos\GenericClassses\BoxClass\obj\Debug\BoxClass.exe
+C:\Users\10d\source\repos\GenericClassses\BoxClass\obj\Debug\BoxClass.pdb

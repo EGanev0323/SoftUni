@@ -1,0 +1,7 @@
+C:\Users\10d\source\repos\YravnMasiv\YravnMasiv\bin\Debug\YravnMasiv.exe.config
+C:\Users\10d\source\repos\YravnMasiv\YravnMasiv\bin\Debug\YravnMasiv.exe
+C:\Users\10d\source\repos\YravnMasiv\YravnMasiv\bin\Debug\YravnMasiv.pdb
+C:\Users\10d\source\repos\YravnMasiv\YravnMasiv\obj\Debug\YravnMasiv.csprojAssemblyReference.cache
+C:\Users\10d\source\repos\YravnMasiv\YravnMasiv\obj\Debug\YravnMasiv.csproj.CoreCompileInputs.cache
+C:\Users\10d\source\repos\YravnMasiv\YravnMasiv\obj\Debug\YravnMasiv.exe
+C:\Users\10d\source\repos\YravnMasiv\YravnMasiv\obj\Debug\YravnMasiv.pdb

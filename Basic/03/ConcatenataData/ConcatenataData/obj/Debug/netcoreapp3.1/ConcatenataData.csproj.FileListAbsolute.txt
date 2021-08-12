@@ -1,0 +1,12 @@
+E:\Visual Studio SU\ConcatenataData\ConcatenataData\bin\Debug\netcoreapp3.1\ConcatenataData.exe
+E:\Visual Studio SU\ConcatenataData\ConcatenataData\bin\Debug\netcoreapp3.1\ConcatenataData.deps.json
+E:\Visual Studio SU\ConcatenataData\ConcatenataData\bin\Debug\netcoreapp3.1\ConcatenataData.runtimeconfig.json
+E:\Visual Studio SU\ConcatenataData\ConcatenataData\bin\Debug\netcoreapp3.1\ConcatenataData.runtimeconfig.dev.json
+E:\Visual Studio SU\ConcatenataData\ConcatenataData\bin\Debug\netcoreapp3.1\ConcatenataData.dll
+E:\Visual Studio SU\ConcatenataData\ConcatenataData\bin\Debug\netcoreapp3.1\ConcatenataData.pdb
+E:\Visual Studio SU\ConcatenataData\ConcatenataData\obj\Debug\netcoreapp3.1\ConcatenataData.AssemblyInfoInputs.cache
+E:\Visual Studio SU\ConcatenataData\ConcatenataData\obj\Debug\netcoreapp3.1\ConcatenataData.AssemblyInfo.cs
+E:\Visual Studio SU\ConcatenataData\ConcatenataData\obj\Debug\netcoreapp3.1\ConcatenataData.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\ConcatenataData\ConcatenataData\obj\Debug\netcoreapp3.1\ConcatenataData.dll
+E:\Visual Studio SU\ConcatenataData\ConcatenataData\obj\Debug\netcoreapp3.1\ConcatenataData.pdb
+E:\Visual Studio SU\ConcatenataData\ConcatenataData\obj\Debug\netcoreapp3.1\ConcatenataData.genruntimeconfig.cache

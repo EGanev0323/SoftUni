@@ -1,0 +1,12 @@
+C:\Users\EGanev\source\repos\PreExam\04. Gifts from Santa\bin\Debug\netcoreapp3.1\04. Gifts from Santa.exe
+C:\Users\EGanev\source\repos\PreExam\04. Gifts from Santa\bin\Debug\netcoreapp3.1\04. Gifts from Santa.deps.json
+C:\Users\EGanev\source\repos\PreExam\04. Gifts from Santa\bin\Debug\netcoreapp3.1\04. Gifts from Santa.runtimeconfig.json
+C:\Users\EGanev\source\repos\PreExam\04. Gifts from Santa\bin\Debug\netcoreapp3.1\04. Gifts from Santa.runtimeconfig.dev.json
+C:\Users\EGanev\source\repos\PreExam\04. Gifts from Santa\bin\Debug\netcoreapp3.1\04. Gifts from Santa.dll
+C:\Users\EGanev\source\repos\PreExam\04. Gifts from Santa\bin\Debug\netcoreapp3.1\04. Gifts from Santa.pdb
+C:\Users\EGanev\source\repos\PreExam\04. Gifts from Santa\obj\Debug\netcoreapp3.1\04. Gifts from Santa.AssemblyInfoInputs.cache
+C:\Users\EGanev\source\repos\PreExam\04. Gifts from Santa\obj\Debug\netcoreapp3.1\04. Gifts from Santa.AssemblyInfo.cs
+C:\Users\EGanev\source\repos\PreExam\04. Gifts from Santa\obj\Debug\netcoreapp3.1\04. Gifts from Santa.csproj.CoreCompileInputs.cache
+C:\Users\EGanev\source\repos\PreExam\04. Gifts from Santa\obj\Debug\netcoreapp3.1\04. Gifts from Santa.dll
+C:\Users\EGanev\source\repos\PreExam\04. Gifts from Santa\obj\Debug\netcoreapp3.1\04. Gifts from Santa.pdb
+C:\Users\EGanev\source\repos\PreExam\04. Gifts from Santa\obj\Debug\netcoreapp3.1\04. Gifts from Santa.genruntimeconfig.cache

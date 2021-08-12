@@ -1,0 +1,26 @@
+C:\Users\EGanev\source\repos\11\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.exe
+C:\Users\EGanev\source\repos\11\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.deps.json
+C:\Users\EGanev\source\repos\11\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.runtimeconfig.json
+C:\Users\EGanev\source\repos\11\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.runtimeconfig.dev.json
+C:\Users\EGanev\source\repos\11\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.dll
+C:\Users\EGanev\source\repos\11\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.pdb
+C:\Users\EGanev\source\repos\11\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.csprojAssemblyReference.cache
+C:\Users\EGanev\source\repos\11\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.AssemblyInfoInputs.cache
+C:\Users\EGanev\source\repos\11\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.AssemblyInfo.cs
+C:\Users\EGanev\source\repos\11\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.csproj.CoreCompileInputs.cache
+C:\Users\EGanev\source\repos\11\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.dll
+C:\Users\EGanev\source\repos\11\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.pdb
+C:\Users\EGanev\source\repos\11\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.genruntimeconfig.cache
+E:\Visual Studio SU\11\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.exe
+E:\Visual Studio SU\11\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.deps.json
+E:\Visual Studio SU\11\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.runtimeconfig.json
+E:\Visual Studio SU\11\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.runtimeconfig.dev.json
+E:\Visual Studio SU\11\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.dll
+E:\Visual Studio SU\11\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.pdb
+E:\Visual Studio SU\11\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.csprojAssemblyReference.cache
+E:\Visual Studio SU\11\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.AssemblyInfoInputs.cache
+E:\Visual Studio SU\11\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.AssemblyInfo.cs
+E:\Visual Studio SU\11\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\11\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.dll
+E:\Visual Studio SU\11\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.pdb
+E:\Visual Studio SU\11\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.genruntimeconfig.cache

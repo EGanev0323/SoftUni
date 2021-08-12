@@ -1,0 +1,13 @@
+C:\Users\EGanev\source\repos\15\Basketball\bin\Debug\netcoreapp3.1\Basketball.exe
+C:\Users\EGanev\source\repos\15\Basketball\bin\Debug\netcoreapp3.1\Basketball.deps.json
+C:\Users\EGanev\source\repos\15\Basketball\bin\Debug\netcoreapp3.1\Basketball.runtimeconfig.json
+C:\Users\EGanev\source\repos\15\Basketball\bin\Debug\netcoreapp3.1\Basketball.runtimeconfig.dev.json
+C:\Users\EGanev\source\repos\15\Basketball\bin\Debug\netcoreapp3.1\Basketball.dll
+C:\Users\EGanev\source\repos\15\Basketball\bin\Debug\netcoreapp3.1\Basketball.pdb
+C:\Users\EGanev\source\repos\15\Basketball\obj\Debug\netcoreapp3.1\Basketball.csprojAssemblyReference.cache
+C:\Users\EGanev\source\repos\15\Basketball\obj\Debug\netcoreapp3.1\Basketball.AssemblyInfoInputs.cache
+C:\Users\EGanev\source\repos\15\Basketball\obj\Debug\netcoreapp3.1\Basketball.AssemblyInfo.cs
+C:\Users\EGanev\source\repos\15\Basketball\obj\Debug\netcoreapp3.1\Basketball.csproj.CoreCompileInputs.cache
+C:\Users\EGanev\source\repos\15\Basketball\obj\Debug\netcoreapp3.1\Basketball.dll
+C:\Users\EGanev\source\repos\15\Basketball\obj\Debug\netcoreapp3.1\Basketball.pdb
+C:\Users\EGanev\source\repos\15\Basketball\obj\Debug\netcoreapp3.1\Basketball.genruntimeconfig.cache

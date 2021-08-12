@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\13.HolidaysBethweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBethweenTwoDates.csprojAssemblyReference.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\13.HolidaysBethweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBethweenTwoDates.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\13.HolidaysBethweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBethweenTwoDates.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\13.HolidaysBethweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBethweenTwoDates.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\13.HolidaysBethweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBethweenTwoDates.exe
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\13.HolidaysBethweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBethweenTwoDates.deps.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\13.HolidaysBethweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBethweenTwoDates.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\13.HolidaysBethweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBethweenTwoDates.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\13.HolidaysBethweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBethweenTwoDates.dll
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\13.HolidaysBethweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBethweenTwoDates.pdb
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\13.HolidaysBethweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBethweenTwoDates.dll
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\13.HolidaysBethweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBethweenTwoDates.pdb
+D:\Visual Studio SU\Fundamentals\FindamentalsIntroLecture\13.HolidaysBethweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBethweenTwoDates.genruntimeconfig.cache

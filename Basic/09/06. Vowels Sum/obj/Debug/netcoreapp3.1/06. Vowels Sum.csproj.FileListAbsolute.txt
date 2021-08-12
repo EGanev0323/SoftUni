@@ -1,0 +1,12 @@
+C:\Users\EGanev\source\repos\09\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.exe
+C:\Users\EGanev\source\repos\09\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.deps.json
+C:\Users\EGanev\source\repos\09\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.runtimeconfig.json
+C:\Users\EGanev\source\repos\09\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.runtimeconfig.dev.json
+C:\Users\EGanev\source\repos\09\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.dll
+C:\Users\EGanev\source\repos\09\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.pdb
+C:\Users\EGanev\source\repos\09\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.AssemblyInfoInputs.cache
+C:\Users\EGanev\source\repos\09\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.AssemblyInfo.cs
+C:\Users\EGanev\source\repos\09\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.csproj.CoreCompileInputs.cache
+C:\Users\EGanev\source\repos\09\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.dll
+C:\Users\EGanev\source\repos\09\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.pdb
+C:\Users\EGanev\source\repos\09\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.genruntimeconfig.cache

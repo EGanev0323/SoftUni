@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\MethodsMethods\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.exe
+D:\Visual Studio SU\Fundamentals\MethodsMethods\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.deps.json
+D:\Visual Studio SU\Fundamentals\MethodsMethods\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\MethodsMethods\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\MethodsMethods\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.dll
+D:\Visual Studio SU\Fundamentals\MethodsMethods\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.pdb
+D:\Visual Studio SU\Fundamentals\MethodsMethods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.csprojAssemblyReference.cache
+D:\Visual Studio SU\Fundamentals\MethodsMethods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\MethodsMethods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\MethodsMethods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\MethodsMethods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.dll
+D:\Visual Studio SU\Fundamentals\MethodsMethods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.pdb
+D:\Visual Studio SU\Fundamentals\MethodsMethods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.genruntimeconfig.cache

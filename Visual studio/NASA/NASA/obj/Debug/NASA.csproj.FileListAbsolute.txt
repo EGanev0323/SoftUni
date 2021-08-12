@@ -1,0 +1,14 @@
+E:\Visual studio\NASA\NASA\bin\Debug\NASA.exe.config
+E:\Visual studio\NASA\NASA\bin\Debug\NASA.exe
+E:\Visual studio\NASA\NASA\bin\Debug\NASA.pdb
+E:\Visual studio\NASA\NASA\obj\Debug\NASA.csprojAssemblyReference.cache
+E:\Visual studio\NASA\NASA\obj\Debug\NASA.csproj.CoreCompileInputs.cache
+E:\Visual studio\NASA\NASA\obj\Debug\NASA.exe
+E:\Visual studio\NASA\NASA\obj\Debug\NASA.pdb
+C:\Users\10d\source\repos\NASA\NASA\bin\Debug\NASA.exe.config
+C:\Users\10d\source\repos\NASA\NASA\bin\Debug\NASA.exe
+C:\Users\10d\source\repos\NASA\NASA\bin\Debug\NASA.pdb
+C:\Users\10d\source\repos\NASA\NASA\obj\Debug\NASA.csprojAssemblyReference.cache
+C:\Users\10d\source\repos\NASA\NASA\obj\Debug\NASA.csproj.CoreCompileInputs.cache
+C:\Users\10d\source\repos\NASA\NASA\obj\Debug\NASA.exe
+C:\Users\10d\source\repos\NASA\NASA\obj\Debug\NASA.pdb

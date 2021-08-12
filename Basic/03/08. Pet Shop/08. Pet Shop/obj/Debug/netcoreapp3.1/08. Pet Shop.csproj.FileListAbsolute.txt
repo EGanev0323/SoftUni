@@ -1,0 +1,12 @@
+E:\Visual Studio SU\08. Pet Shop\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.exe
+E:\Visual Studio SU\08. Pet Shop\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.deps.json
+E:\Visual Studio SU\08. Pet Shop\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.runtimeconfig.json
+E:\Visual Studio SU\08. Pet Shop\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.runtimeconfig.dev.json
+E:\Visual Studio SU\08. Pet Shop\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.dll
+E:\Visual Studio SU\08. Pet Shop\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.pdb
+E:\Visual Studio SU\08. Pet Shop\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.AssemblyInfoInputs.cache
+E:\Visual Studio SU\08. Pet Shop\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.AssemblyInfo.cs
+E:\Visual Studio SU\08. Pet Shop\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\08. Pet Shop\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.dll
+E:\Visual Studio SU\08. Pet Shop\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.pdb
+E:\Visual Studio SU\08. Pet Shop\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.genruntimeconfig.cache

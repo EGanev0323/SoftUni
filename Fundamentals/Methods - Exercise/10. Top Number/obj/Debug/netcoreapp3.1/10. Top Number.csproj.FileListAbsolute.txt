@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.exe
+D:\Visual Studio SU\Fundamentals\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.deps.json
+D:\Visual Studio SU\Fundamentals\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.dll
+D:\Visual Studio SU\Fundamentals\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.pdb
+D:\Visual Studio SU\Fundamentals\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.csprojAssemblyReference.cache
+D:\Visual Studio SU\Fundamentals\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.dll
+D:\Visual Studio SU\Fundamentals\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.pdb
+D:\Visual Studio SU\Fundamentals\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.genruntimeconfig.cache

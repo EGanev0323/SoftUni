@@ -1,0 +1,12 @@
+E:\Visual Studio SU\PracticeTest\06. Tournament of Christmas\bin\Debug\netcoreapp3.1\06. Tournament of Christmas.exe
+E:\Visual Studio SU\PracticeTest\06. Tournament of Christmas\bin\Debug\netcoreapp3.1\06. Tournament of Christmas.deps.json
+E:\Visual Studio SU\PracticeTest\06. Tournament of Christmas\bin\Debug\netcoreapp3.1\06. Tournament of Christmas.runtimeconfig.json
+E:\Visual Studio SU\PracticeTest\06. Tournament of Christmas\bin\Debug\netcoreapp3.1\06. Tournament of Christmas.runtimeconfig.dev.json
+E:\Visual Studio SU\PracticeTest\06. Tournament of Christmas\bin\Debug\netcoreapp3.1\06. Tournament of Christmas.dll
+E:\Visual Studio SU\PracticeTest\06. Tournament of Christmas\bin\Debug\netcoreapp3.1\06. Tournament of Christmas.pdb
+E:\Visual Studio SU\PracticeTest\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.AssemblyInfoInputs.cache
+E:\Visual Studio SU\PracticeTest\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.AssemblyInfo.cs
+E:\Visual Studio SU\PracticeTest\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\PracticeTest\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.dll
+E:\Visual Studio SU\PracticeTest\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.pdb
+E:\Visual Studio SU\PracticeTest\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.genruntimeconfig.cache

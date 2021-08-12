@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Lab\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.exe
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Lab\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.deps.json
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Lab\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Lab\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Lab\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.dll
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Lab\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.pdb
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.csprojAssemblyReference.cache
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.dll
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.pdb
+D:\Visual Studio SU\Fundamentals\Regular Expressions - Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.genruntimeconfig.cache

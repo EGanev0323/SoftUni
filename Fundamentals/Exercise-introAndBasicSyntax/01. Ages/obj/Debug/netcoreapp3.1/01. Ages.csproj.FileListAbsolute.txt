@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.exe
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.deps.json
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.dll
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.pdb
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csprojAssemblyReference.cache
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.dll
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.pdb
+D:\Visual Studio SU\Fundamentals\Exercise-introAndBasicSyntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.genruntimeconfig.cache

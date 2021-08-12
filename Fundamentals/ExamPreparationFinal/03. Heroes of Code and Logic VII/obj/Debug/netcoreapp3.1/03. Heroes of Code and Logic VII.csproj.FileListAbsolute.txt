@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.csprojAssemblyReference.cache
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.exe
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.deps.json
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.dll
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.pdb
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.dll
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.pdb
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.genruntimeconfig.cache

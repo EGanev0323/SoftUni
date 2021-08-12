@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.exe
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.deps.json
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.dll
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.pdb
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.csprojAssemblyReference.cache
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.dll
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.pdb
+D:\Visual Studio SU\Fundamentals\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.genruntimeconfig.cache

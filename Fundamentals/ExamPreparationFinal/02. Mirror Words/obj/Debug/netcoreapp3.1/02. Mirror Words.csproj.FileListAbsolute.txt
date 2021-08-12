@@ -1,0 +1,13 @@
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.exe
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.deps.json
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.runtimeconfig.json
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.runtimeconfig.dev.json
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.dll
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.pdb
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.csprojAssemblyReference.cache
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.AssemblyInfoInputs.cache
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.AssemblyInfo.cs
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.dll
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.pdb
+D:\Visual Studio SU\Fundamentals\ExamPreparationFinal\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.genruntimeconfig.cache

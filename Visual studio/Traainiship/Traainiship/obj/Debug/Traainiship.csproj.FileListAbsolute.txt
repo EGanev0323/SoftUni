@@ -1,0 +1,7 @@
+C:\Users\10d\source\repos\Traainiship\Traainiship\bin\Debug\Traainiship.exe.config
+C:\Users\10d\source\repos\Traainiship\Traainiship\bin\Debug\Traainiship.exe
+C:\Users\10d\source\repos\Traainiship\Traainiship\bin\Debug\Traainiship.pdb
+C:\Users\10d\source\repos\Traainiship\Traainiship\obj\Debug\Traainiship.csprojAssemblyReference.cache
+C:\Users\10d\source\repos\Traainiship\Traainiship\obj\Debug\Traainiship.csproj.CoreCompileInputs.cache
+C:\Users\10d\source\repos\Traainiship\Traainiship\obj\Debug\Traainiship.exe
+C:\Users\10d\source\repos\Traainiship\Traainiship\obj\Debug\Traainiship.pdb

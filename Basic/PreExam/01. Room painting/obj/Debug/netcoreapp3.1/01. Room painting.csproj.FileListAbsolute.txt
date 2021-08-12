@@ -1,0 +1,13 @@
+C:\Users\EGanev\source\repos\PreExam\01. Room painting\bin\Debug\netcoreapp3.1\01. Room painting.exe
+C:\Users\EGanev\source\repos\PreExam\01. Room painting\bin\Debug\netcoreapp3.1\01. Room painting.deps.json
+C:\Users\EGanev\source\repos\PreExam\01. Room painting\bin\Debug\netcoreapp3.1\01. Room painting.runtimeconfig.json
+C:\Users\EGanev\source\repos\PreExam\01. Room painting\bin\Debug\netcoreapp3.1\01. Room painting.runtimeconfig.dev.json
+C:\Users\EGanev\source\repos\PreExam\01. Room painting\bin\Debug\netcoreapp3.1\01. Room painting.dll
+C:\Users\EGanev\source\repos\PreExam\01. Room painting\bin\Debug\netcoreapp3.1\01. Room painting.pdb
+C:\Users\EGanev\source\repos\PreExam\01. Room painting\obj\Debug\netcoreapp3.1\01. Room painting.csprojAssemblyReference.cache
+C:\Users\EGanev\source\repos\PreExam\01. Room painting\obj\Debug\netcoreapp3.1\01. Room painting.AssemblyInfoInputs.cache
+C:\Users\EGanev\source\repos\PreExam\01. Room painting\obj\Debug\netcoreapp3.1\01. Room painting.AssemblyInfo.cs
+C:\Users\EGanev\source\repos\PreExam\01. Room painting\obj\Debug\netcoreapp3.1\01. Room painting.csproj.CoreCompileInputs.cache
+C:\Users\EGanev\source\repos\PreExam\01. Room painting\obj\Debug\netcoreapp3.1\01. Room painting.dll
+C:\Users\EGanev\source\repos\PreExam\01. Room painting\obj\Debug\netcoreapp3.1\01. Room painting.pdb
+C:\Users\EGanev\source\repos\PreExam\01. Room painting\obj\Debug\netcoreapp3.1\01. Room painting.genruntimeconfig.cache

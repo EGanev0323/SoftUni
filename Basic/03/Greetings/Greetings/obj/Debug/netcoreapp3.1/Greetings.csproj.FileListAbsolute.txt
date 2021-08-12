@@ -1,0 +1,12 @@
+E:\Visual Studio SU\Greetings\Greetings\bin\Debug\netcoreapp3.1\Greetings.exe
+E:\Visual Studio SU\Greetings\Greetings\bin\Debug\netcoreapp3.1\Greetings.deps.json
+E:\Visual Studio SU\Greetings\Greetings\bin\Debug\netcoreapp3.1\Greetings.runtimeconfig.json
+E:\Visual Studio SU\Greetings\Greetings\bin\Debug\netcoreapp3.1\Greetings.runtimeconfig.dev.json
+E:\Visual Studio SU\Greetings\Greetings\bin\Debug\netcoreapp3.1\Greetings.dll
+E:\Visual Studio SU\Greetings\Greetings\bin\Debug\netcoreapp3.1\Greetings.pdb
+E:\Visual Studio SU\Greetings\Greetings\obj\Debug\netcoreapp3.1\Greetings.AssemblyInfoInputs.cache
+E:\Visual Studio SU\Greetings\Greetings\obj\Debug\netcoreapp3.1\Greetings.AssemblyInfo.cs
+E:\Visual Studio SU\Greetings\Greetings\obj\Debug\netcoreapp3.1\Greetings.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\Greetings\Greetings\obj\Debug\netcoreapp3.1\Greetings.dll
+E:\Visual Studio SU\Greetings\Greetings\obj\Debug\netcoreapp3.1\Greetings.pdb
+E:\Visual Studio SU\Greetings\Greetings\obj\Debug\netcoreapp3.1\Greetings.genruntimeconfig.cache

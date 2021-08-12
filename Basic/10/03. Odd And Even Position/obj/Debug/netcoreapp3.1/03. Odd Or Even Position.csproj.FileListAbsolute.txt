@@ -1,0 +1,26 @@
+C:\Users\EGanev\source\repos\10\03. Odd And Even Position\bin\Debug\netcoreapp3.1\03. Odd Or Even Position.exe
+C:\Users\EGanev\source\repos\10\03. Odd And Even Position\bin\Debug\netcoreapp3.1\03. Odd Or Even Position.deps.json
+C:\Users\EGanev\source\repos\10\03. Odd And Even Position\bin\Debug\netcoreapp3.1\03. Odd Or Even Position.runtimeconfig.json
+C:\Users\EGanev\source\repos\10\03. Odd And Even Position\bin\Debug\netcoreapp3.1\03. Odd Or Even Position.runtimeconfig.dev.json
+C:\Users\EGanev\source\repos\10\03. Odd And Even Position\bin\Debug\netcoreapp3.1\03. Odd Or Even Position.dll
+C:\Users\EGanev\source\repos\10\03. Odd And Even Position\bin\Debug\netcoreapp3.1\03. Odd Or Even Position.pdb
+C:\Users\EGanev\source\repos\10\03. Odd And Even Position\obj\Debug\netcoreapp3.1\03. Odd Or Even Position.csprojAssemblyReference.cache
+C:\Users\EGanev\source\repos\10\03. Odd And Even Position\obj\Debug\netcoreapp3.1\03. Odd Or Even Position.AssemblyInfoInputs.cache
+C:\Users\EGanev\source\repos\10\03. Odd And Even Position\obj\Debug\netcoreapp3.1\03. Odd Or Even Position.AssemblyInfo.cs
+C:\Users\EGanev\source\repos\10\03. Odd And Even Position\obj\Debug\netcoreapp3.1\03. Odd Or Even Position.csproj.CoreCompileInputs.cache
+C:\Users\EGanev\source\repos\10\03. Odd And Even Position\obj\Debug\netcoreapp3.1\03. Odd Or Even Position.dll
+C:\Users\EGanev\source\repos\10\03. Odd And Even Position\obj\Debug\netcoreapp3.1\03. Odd Or Even Position.pdb
+C:\Users\EGanev\source\repos\10\03. Odd And Even Position\obj\Debug\netcoreapp3.1\03. Odd Or Even Position.genruntimeconfig.cache
+E:\Visual Studio SU\10\03. Odd And Even Position\bin\Debug\netcoreapp3.1\03. Odd Or Even Position.exe
+E:\Visual Studio SU\10\03. Odd And Even Position\bin\Debug\netcoreapp3.1\03. Odd Or Even Position.deps.json
+E:\Visual Studio SU\10\03. Odd And Even Position\bin\Debug\netcoreapp3.1\03. Odd Or Even Position.runtimeconfig.json
+E:\Visual Studio SU\10\03. Odd And Even Position\bin\Debug\netcoreapp3.1\03. Odd Or Even Position.runtimeconfig.dev.json
+E:\Visual Studio SU\10\03. Odd And Even Position\bin\Debug\netcoreapp3.1\03. Odd Or Even Position.dll
+E:\Visual Studio SU\10\03. Odd And Even Position\bin\Debug\netcoreapp3.1\03. Odd Or Even Position.pdb
+E:\Visual Studio SU\10\03. Odd And Even Position\obj\Debug\netcoreapp3.1\03. Odd Or Even Position.csprojAssemblyReference.cache
+E:\Visual Studio SU\10\03. Odd And Even Position\obj\Debug\netcoreapp3.1\03. Odd Or Even Position.AssemblyInfoInputs.cache
+E:\Visual Studio SU\10\03. Odd And Even Position\obj\Debug\netcoreapp3.1\03. Odd Or Even Position.AssemblyInfo.cs
+E:\Visual Studio SU\10\03. Odd And Even Position\obj\Debug\netcoreapp3.1\03. Odd Or Even Position.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\10\03. Odd And Even Position\obj\Debug\netcoreapp3.1\03. Odd Or Even Position.dll
+E:\Visual Studio SU\10\03. Odd And Even Position\obj\Debug\netcoreapp3.1\03. Odd Or Even Position.pdb
+E:\Visual Studio SU\10\03. Odd And Even Position\obj\Debug\netcoreapp3.1\03. Odd Or Even Position.genruntimeconfig.cache

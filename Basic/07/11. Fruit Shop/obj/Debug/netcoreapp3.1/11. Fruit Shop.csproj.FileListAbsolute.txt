@@ -1,0 +1,13 @@
+E:\Visual Studio SU\07\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.exe
+E:\Visual Studio SU\07\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.deps.json
+E:\Visual Studio SU\07\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.runtimeconfig.json
+E:\Visual Studio SU\07\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.runtimeconfig.dev.json
+E:\Visual Studio SU\07\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.dll
+E:\Visual Studio SU\07\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.pdb
+E:\Visual Studio SU\07\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.csprojAssemblyReference.cache
+E:\Visual Studio SU\07\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.AssemblyInfoInputs.cache
+E:\Visual Studio SU\07\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.AssemblyInfo.cs
+E:\Visual Studio SU\07\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.csproj.CoreCompileInputs.cache
+E:\Visual Studio SU\07\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.dll
+E:\Visual Studio SU\07\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.pdb
+E:\Visual Studio SU\07\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.genruntimeconfig.cache
