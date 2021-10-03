@@ -1,0 +1,16 @@
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.exe
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.deps.json
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.runtimeconfig.json
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.runtimeconfig.dev.json
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.dll
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net5.0\ref\3. Primary Diagonal.dll
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.csprojAssemblyReference.cache
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.AssemblyInfoInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.AssemblyInfo.cs
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.dll
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\ref\3. Primary Diagonal.dll
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.genruntimeconfig.cache

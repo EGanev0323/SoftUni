@@ -1,0 +1,13 @@
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.exe
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.deps.json
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.runtimeconfig.json
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.runtimeconfig.dev.json
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.dll
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.AssemblyInfoInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.AssemblyInfo.cs
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.dll
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.genruntimeconfig.cache

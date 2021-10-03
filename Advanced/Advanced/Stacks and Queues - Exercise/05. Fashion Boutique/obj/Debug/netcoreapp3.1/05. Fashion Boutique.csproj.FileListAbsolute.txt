@@ -1,0 +1,12 @@
+D:\Visual Studio SU\03Advanced\Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.exe
+D:\Visual Studio SU\03Advanced\Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.deps.json
+D:\Visual Studio SU\03Advanced\Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.runtimeconfig.json
+D:\Visual Studio SU\03Advanced\Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.runtimeconfig.dev.json
+D:\Visual Studio SU\03Advanced\Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.dll
+D:\Visual Studio SU\03Advanced\Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.AssemblyInfoInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.AssemblyInfo.cs
+D:\Visual Studio SU\03Advanced\Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.dll
+D:\Visual Studio SU\03Advanced\Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.exe
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.deps.json
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.runtimeconfig.json
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.runtimeconfig.dev.json
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.dll
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\ref\01. Action Print.dll
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.csproj.AssemblyReference.cache
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.AssemblyInfoInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.AssemblyInfo.cs
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.dll
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\ref\01. Action Print.dll
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.genruntimeconfig.cache

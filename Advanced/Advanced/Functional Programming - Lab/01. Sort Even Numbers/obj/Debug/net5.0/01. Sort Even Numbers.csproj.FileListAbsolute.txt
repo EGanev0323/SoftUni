@@ -1,0 +1,16 @@
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.exe
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.deps.json
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.runtimeconfig.json
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.runtimeconfig.dev.json
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.dll
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\ref\01. Sort Even Numbers.dll
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.csproj.AssemblyReference.cache
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.AssemblyInfoInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.AssemblyInfo.cs
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.dll
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\ref\01. Sort Even Numbers.dll
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\bin\Debug\net5.0\StreamsFilesAndDirectories.exe
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\bin\Debug\net5.0\StreamsFilesAndDirectories.deps.json
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\bin\Debug\net5.0\StreamsFilesAndDirectories.runtimeconfig.json
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\bin\Debug\net5.0\StreamsFilesAndDirectories.runtimeconfig.dev.json
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\bin\Debug\net5.0\StreamsFilesAndDirectories.dll
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\bin\Debug\net5.0\ref\StreamsFilesAndDirectories.dll
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\bin\Debug\net5.0\StreamsFilesAndDirectories.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\obj\Debug\net5.0\StreamsFilesAndDirectories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\obj\Debug\net5.0\StreamsFilesAndDirectories.AssemblyInfoInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\obj\Debug\net5.0\StreamsFilesAndDirectories.AssemblyInfo.cs
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\obj\Debug\net5.0\StreamsFilesAndDirectories.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\obj\Debug\net5.0\StreamsFilesAndDirectories.dll
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\obj\Debug\net5.0\ref\StreamsFilesAndDirectories.dll
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\obj\Debug\net5.0\StreamsFilesAndDirectories.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\obj\Debug\net5.0\StreamsFilesAndDirectories.genruntimeconfig.cache
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\obj\Debug\net5.0\StreamsFilesAndDirectories.csproj.AssemblyReference.cache

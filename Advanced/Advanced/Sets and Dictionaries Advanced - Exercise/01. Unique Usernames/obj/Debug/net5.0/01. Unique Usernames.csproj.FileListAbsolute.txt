@@ -1,0 +1,16 @@
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.exe
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.deps.json
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.runtimeconfig.json
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.runtimeconfig.dev.json
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.dll
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net5.0\ref\01. Unique Usernames.dll
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.csproj.AssemblyReference.cache
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.AssemblyInfoInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.AssemblyInfo.cs
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.dll
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\ref\01. Unique Usernames.dll
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.genruntimeconfig.cache

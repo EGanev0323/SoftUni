@@ -1,0 +1,16 @@
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\bin\Debug\net5.0\1. EvenLines.exe
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\bin\Debug\net5.0\1. EvenLines.deps.json
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\bin\Debug\net5.0\1. EvenLines.runtimeconfig.json
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\bin\Debug\net5.0\1. EvenLines.runtimeconfig.dev.json
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\bin\Debug\net5.0\1. EvenLines.dll
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\bin\Debug\net5.0\ref\1. EvenLines.dll
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\bin\Debug\net5.0\1. EvenLines.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\obj\Debug\net5.0\1. EvenLines.csproj.AssemblyReference.cache
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\obj\Debug\net5.0\1. EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\obj\Debug\net5.0\1. EvenLines.AssemblyInfoInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\obj\Debug\net5.0\1. EvenLines.AssemblyInfo.cs
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\obj\Debug\net5.0\1. EvenLines.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\obj\Debug\net5.0\1. EvenLines.dll
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\obj\Debug\net5.0\ref\1. EvenLines.dll
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\obj\Debug\net5.0\1. EvenLines.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Streams, Files and Directories - Exercise\1. EvenLines\obj\Debug\net5.0\1. EvenLines.genruntimeconfig.cache

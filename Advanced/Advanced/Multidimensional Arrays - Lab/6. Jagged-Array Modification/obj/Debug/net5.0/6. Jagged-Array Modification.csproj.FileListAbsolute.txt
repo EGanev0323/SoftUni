@@ -1,0 +1,15 @@
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\net5.0\6. Jagged-Array Modification.exe
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\net5.0\6. Jagged-Array Modification.deps.json
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\net5.0\6. Jagged-Array Modification.runtimeconfig.json
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\net5.0\6. Jagged-Array Modification.runtimeconfig.dev.json
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\net5.0\6. Jagged-Array Modification.dll
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\net5.0\ref\6. Jagged-Array Modification.dll
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\net5.0\6. Jagged-Array Modification.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\net5.0\6. Jagged-Array Modification.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\net5.0\6. Jagged-Array Modification.AssemblyInfoInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\net5.0\6. Jagged-Array Modification.AssemblyInfo.cs
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\net5.0\6. Jagged-Array Modification.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\net5.0\6. Jagged-Array Modification.dll
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\net5.0\ref\6. Jagged-Array Modification.dll
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\net5.0\6. Jagged-Array Modification.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\net5.0\6. Jagged-Array Modification.genruntimeconfig.cache

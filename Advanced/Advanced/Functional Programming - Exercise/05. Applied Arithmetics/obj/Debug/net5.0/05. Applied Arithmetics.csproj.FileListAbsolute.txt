@@ -1,0 +1,15 @@
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.exe
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.deps.json
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.runtimeconfig.json
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.runtimeconfig.dev.json
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.dll
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net5.0\ref\05. Applied Arithmetics.dll
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.AssemblyInfoInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.AssemblyInfo.cs
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.dll
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\ref\05. Applied Arithmetics.dll
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.genruntimeconfig.cache

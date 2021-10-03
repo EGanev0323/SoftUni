@@ -1,0 +1,16 @@
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.exe
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.deps.json
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.runtimeconfig.json
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.runtimeconfig.dev.json
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.dll
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\ref\2. Sum Matrix Columns.dll
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.csprojAssemblyReference.cache
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.AssemblyInfo.cs
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.dll
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\ref\2. Sum Matrix Columns.dll
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\bin\Debug\net5.0\02. Sum Numbers.exe
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\bin\Debug\net5.0\02. Sum Numbers.deps.json
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\bin\Debug\net5.0\02. Sum Numbers.runtimeconfig.json
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\bin\Debug\net5.0\02. Sum Numbers.runtimeconfig.dev.json
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\bin\Debug\net5.0\02. Sum Numbers.dll
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\bin\Debug\net5.0\ref\02. Sum Numbers.dll
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\bin\Debug\net5.0\02. Sum Numbers.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\obj\Debug\net5.0\02. Sum Numbers.csproj.AssemblyReference.cache
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\obj\Debug\net5.0\02. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\obj\Debug\net5.0\02. Sum Numbers.AssemblyInfoInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\obj\Debug\net5.0\02. Sum Numbers.AssemblyInfo.cs
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\obj\Debug\net5.0\02. Sum Numbers.csproj.CoreCompileInputs.cache
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\obj\Debug\net5.0\02. Sum Numbers.dll
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\obj\Debug\net5.0\ref\02. Sum Numbers.dll
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\obj\Debug\net5.0\02. Sum Numbers.pdb
+D:\Visual Studio SU\03Advanced\Advanced\Functional Programming - Lab\02. Sum Numbers\obj\Debug\net5.0\02. Sum Numbers.genruntimeconfig.cache
